@@ -1,0 +1,2984 @@
+[
+    {
+        "id": "1",
+        "title": "En/ Enji",
+        "content": "god of fire",
+        "category": "Albanian mythology"
+    },
+    {
+        "id": "2",
+        "title": "Nena e Vatres",
+        "content": "hearth goddess",
+        "category": "Albanian mythology"
+    },
+    {
+        "id": "3",
+        "title": "I Verbti",
+        "content": "god of fire who controls wind that fans the flames of fire",
+        "category": "Albanian mythology"
+    },
+    {
+        "id": "4",
+        "title": "Eate",
+        "content": "god of fire, ice and storms",
+        "category": "Basque mythology"
+    },
+    {
+        "id": "5",
+        "title": "Alpan",
+        "content": "Lezghin (Dagestanian) goddess of fire",
+        "category": "Caucasian mythology"
+    },
+    {
+        "id": "6",
+        "title": "Kamar",
+        "content": "Georgian fire goddess who was kidnapped by Amirani",
+        "category": "Caucasian mythology"
+    },
+    {
+        "id": "7",
+        "title": "Uorsar",
+        "content": "Adyghe goddess of the hearth",
+        "category": "Caucasian mythology"
+    },
+    {
+        "id": "8",
+        "title": "Wine Gwasche",
+        "content": "Circassian goddess who protects the hearth",
+        "category": "Caucasian mythology"
+    },
+    {
+        "id": "9",
+        "title": "Aed",
+        "content": "Irish god whose name means \"fire\"",
+        "category": "Celtic mythology"
+    },
+    {
+        "id": "10",
+        "title": "Brigit",
+        "content": "Irish goddess of fire, poetry, arts, and crafts",
+        "category": "Celtic mythology"
+    },
+    {
+        "id": "11",
+        "title": "Grannus",
+        "content": "god of fire, health, water springs, and the sun",
+        "category": "Celtic mythology"
+    },
+    {
+        "id": "12",
+        "title": "Nantosuelta",
+        "content": "goddess of fire, nature, fertility, rivers and the earth",
+        "category": "Celtic mythology"
+    },
+    {
+        "id": "13",
+        "title": "Sethlans",
+        "content": "fire god of smithing and crafts",
+        "category": "Etruscan mythology"
+    },
+    {
+        "id": "14",
+        "title": "Suri",
+        "content": "fire god and chthonic light god, with powers over health and plague",
+        "category": "Etruscan mythology"
+    },
+    {
+        "id": "15",
+        "title": "Helios",
+        "content": "god and personification of the Sun",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "16",
+        "title": "Hephaestus",
+        "content": "god of blacksmiths, crafting, fire, and volcanoes, Roman form Vulcan",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "18",
+        "title": "Prometheus",
+        "content": "god of fire, is credited with the creation of humanity from clay, and who defies the gods by stealing fire and giving it to humanity as civilization",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "19",
+        "title": "Dimstipatis",
+        "content": "protector of the house, housewives, and the hearth against fire outbreaks",
+        "category": "Lithuanian mythology"
+    },
+    {
+        "id": "20",
+        "title": "Gabija",
+        "content": "protective goddess of the hearth and the household",
+        "category": "Lithuanian mythology"
+    },
+    {
+        "id": "21",
+        "title": "Jagaubis",
+        "content": "household spirit of fire and the furnace",
+        "category": "Lithuanian mythology"
+    },
+    {
+        "id": "22",
+        "title": "Moteru Gabija",
+        "content": "goddess of bakeries and bread",
+        "category": "Lithuanian mythology"
+    },
+    {
+        "id": "23",
+        "title": "Pelenau Gabija",
+        "content": "goddess of fireplaces",
+        "category": "Lithuanian mythology"
+    },
+    {
+        "id": "24",
+        "title": "Praurime",
+        "content": "goddess of the sacred fire served by her priestesses, the vaidilut\u0117s",
+        "category": "Lithuanian mythology"
+    },
+    {
+        "id": "25",
+        "title": "Trotytojas Kibirksciu/\u0422\u0440\u0430\u0442\u0438\u0442\u0430\u0441 \u041a\u0438\u0440\u0431\u0438\u043a\u0441\u0442\u0443",
+        "content": "deity of sparks and fires",
+        "category": "Lithuanian mythology"
+    },
+    {
+        "id": "26",
+        "title": "Glod",
+        "content": "'glad' or 'glowing embers'; sometimes anglicized as Glod or Glut. She is a legendary queen and, sometimes, a j\u00f6tunn who is the wife of Logi and who rules with him",
+        "category": "Norse mythology"
+    },
+    {
+        "id": "27",
+        "title": "Logi",
+        "content": "j\u00f6tunn who personifies fire",
+        "category": "Norse mythology"
+    },
+    {
+        "id": "28",
+        "title": "Surtr",
+        "content": "j\u00f6tunn king who ruled the volcanic powers of the underworld and, carrying his bright sword, will cover the Earth in fire during Ragnar\u00f6k",
+        "category": "Norse mythology"
+    },
+    {
+        "id": "29",
+        "title": "Safa",
+        "content": "god of the hearth chain",
+        "category": "Ossetian mythology"
+    },
+    {
+        "id": "30",
+        "title": "Mariel",
+        "content": "Fire goddess",
+        "category": "Ossetian mythology"
+    },
+    {
+        "id": "31",
+        "title": "Caca",
+        "content": "goddess who was Vulcan's daughter and who might have been worshipped before Vesta",
+        "category": "Roman mythology"
+    },
+    {
+        "id": "32",
+        "title": "Cacus",
+        "content": "god who was the fire-breathing giant son of Vulcan, and who might have been worshipped in ancient times",
+        "category": "Roman mythology"
+    },
+    {
+        "id": "33",
+        "title": "Fornax",
+        "content": "goddess of the furnace",
+        "category": "Roman mythology"
+    },
+    {
+        "id": "34",
+        "title": "Sol",
+        "content": "personification and god of the Sun",
+        "category": "Roman mythology"
+    },
+    {
+        "id": "35",
+        "title": "Stata Mater",
+        "content": "goddess who stops fires",
+        "category": "Roman mythology"
+    },
+    {
+        "id": "36",
+        "title": "Vesta",
+        "content": "goddess of the hearth and its fire, Roman form of Hestia.",
+        "category": "Roman mythology"
+    },
+    {
+        "id": "37",
+        "title": "Vulcan",
+        "content": "god of crafting and fire, Roman form of Hephaestus",
+        "category": "Roman mythology"
+    },
+    {
+        "id": "38",
+        "title": "Adranus",
+        "content": "god formerly worshipped in , near Mount Etna",
+        "category": "Sicilian mythology"
+    },
+    {
+        "id": "39",
+        "title": "Dazhbog",
+        "content": "the regenerating god of the solar fire who rides in the sky",
+        "category": "Slavic mythology"
+    },
+    {
+        "id": "40",
+        "title": "Kresnik",
+        "content": "golden fire god who became a hero of Slovenia",
+        "category": "Slavic mythology"
+    },
+    {
+        "id": "41",
+        "title": "Ognyena Maria",
+        "content": "fire goddess who assists Perun",
+        "category": "Slavic mythology"
+    },
+    {
+        "id": "42",
+        "title": "Peklenc",
+        "content": "god of fire who rules the underworld and its wealth and who judges and punishes the wicked through earthquakes",
+        "category": "Slavic mythology"
+    },
+    {
+        "id": "43",
+        "title": "Svarog",
+        "content": "the bright god of fire, smithing, and the sun, and is sometimes considered as the creator",
+        "category": "Slavic mythology"
+    },
+    {
+        "id": "44",
+        "title": "Svarozic",
+        "content": "the god of the earthly fire",
+        "category": "Slavic mythology"
+    },
+    {
+        "id": "45",
+        "title": "Chantico",
+        "content": "goddess of the hearth fires and volcanoes",
+        "category": "Aztec mythology"
+    },
+    {
+        "id": "46",
+        "title": "Mixcoatl",
+        "content": "hunting god who introduced fire to humanity",
+        "category": "Aztec mythology"
+    },
+    {
+        "id": "47",
+        "title": "Xiuhtecuhtli",
+        "content": "god of fire, day, heat, volcanoes, food in famine, the year, turquoise, the Aztec emperors, and the afterlife",
+        "category": "Aztec mythology"
+    },
+    {
+        "id": "48",
+        "title": "Tatewari",
+        "content": "fire god of shamans",
+        "category": "Huichol mythology"
+    },
+    {
+        "id": "49",
+        "title": "Jacawitz",
+        "content": "fire god who was a companion of the sun god Tohil",
+        "category": "Mayan mythology"
+    },
+    {
+        "id": "50",
+        "title": "Black God",
+        "content": "frail stellar fire god who introduced the fire drill to humanity",
+        "category": "Navajo mythology"
+    },
+    {
+        "id": "51",
+        "title": "Curicaueri",
+        "content": "the primordial fire that originates the sun. Main deity of the pur\u00e9pecha people of central Mexico.",
+        "category": "Pur\u00e9pecha mythology"
+    },
+    {
+        "id": "52",
+        "title": "Manqu Qhapaq",
+        "content": "fire and sun god who founded the Inca civilization and introduced technology to humanity",
+        "category": "Quechua mythology"
+    },
+    {
+        "id": "53",
+        "title": "Mama Nina",
+        "content": "Her name means 'Mother of fire' in quechua, she's the goddess of fire, light and volcanoes",
+        "category": "Quechua mythology"
+    },
+    {
+        "id": "54",
+        "title": "Nyambe",
+        "category": "Bantu mythology",
+        "content": "god of the sun, fire and change"
+    },
+    {
+        "id": "55",
+        "title": "Nzambi Mpungu (Kal\u00fbnga)",
+        "category": "Bantu mythology",
+        "content": "god of the sun, fire, sky and change"
+    },
+    {
+        "id": "56",
+        "title": "Ra",
+        "category": "Egyptian mythology",
+        "content": "fire god of the sun, light, warmth, and growth. The foremost Egyptian sun god, involved in creation and the afterlife. Mythological ruler of the gods, father of every Egyptian king, and the patron god of Heliopolis."
+    },
+    {
+        "id": "57",
+        "title": "Sekhmet",
+        "category": "Egyptian mythology",
+        "content": "protective lioness goddess of war, along with some elements of disease and curing of disease. Sometimes referenced in relation to the sun and its power, so possibly had to do with upkeep of the sun at times and fire"
+    },
+    {
+        "id": "58",
+        "title": "Wadjet",
+        "category": "Egyptian mythology",
+        "content": "the protective serpent goddess who sends fire to burn her enemies"
+    },
+    {
+        "id": "59",
+        "title": "Ogun",
+        "category": "Yoruba mythology",
+        "content": "fire god and patron of blacksmiths, iron, warfare, metal tools"
+    },
+    {
+        "id": "60",
+        "title": "\u1eccya",
+        "category": "Yoruba mythology",
+        "content": "goddess of fire, wind, transforms into buffalo, fertility"
+    },
+    {
+        "id": "61",
+        "title": "Shango",
+        "category": "Yoruba mythology",
+        "content": "god of thunder and fire, considered the storm-god"
+    },
+    {
+        "id": "62",
+        "title": "Aggayu",
+        "category": "Yoruba mythology",
+        "content": "god of volcanoes, magma, sunlight, and heat"
+    },
+    {
+        "id": "63",
+        "title": "Yam (god)",
+        "content": "god of the sea.",
+        "category": "Canaanite mythology"
+    },
+    {
+        "id": "64",
+        "title": "Asherah (Goddess)",
+        "content": "goddess of water, fertility, mother goddess, queen of gods and heaven.",
+        "category": "Canaanite mythology"
+    },
+    {
+        "id": "65",
+        "title": "Dagon (God)",
+        "content": "god of agriculture, fish god and the seas.",
+        "category": "Canaanite mythology"
+    },
+    {
+        "id": "66",
+        "title": "Marah",
+        "content": "goddess of water, Anat's twin sister being described as benevolent.",
+        "category": "Canaanite mythology"
+    },
+    {
+        "id": "67",
+        "title": "Anuket",
+        "content": "goddess of the Nile and nourisher of the fields.",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "68",
+        "title": "Bairthy",
+        "content": "goddess of water, was depicted with a small pitcher on her head, holding a long spear-like sceptre.",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "69",
+        "title": "Hapi",
+        "content": "god of the annual flooding of the Nile.",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "70",
+        "title": "Khnum",
+        "content": "god of the source of the Nile.",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "72",
+        "title": "Nu",
+        "content": "uncreated god, personification of the primordial waters.",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "73",
+        "title": "Osiris",
+        "content": "god of death and resurrection who rules the underworld and enlivens vegetation, the sun god, and deceased souls. God of the dead and afterlife; originally a god of water and vegetation.",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "74",
+        "title": "Satet",
+        "content": "goddess of the Nile River's floods.",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "75",
+        "title": "Sobek",
+        "content": "god of the Nile river, is depicted as a crocodile or a man with the head of a crocodile.",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "77",
+        "title": "Wadj-wer",
+        "content": "personification of the Mediterranean Sea or represented the lagoons and lakes in the northernmost Nile Delta.",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "78",
+        "title": "Leviathan",
+        "content": "sea serpent.",
+        "category": "Hebrew mythology"
+    },
+    {
+        "id": "80",
+        "title": "Enbilulu",
+        "content": "god associated with irrigation, and by extension with both canals and rivers.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "85",
+        "title": "Tiamat",
+        "content": "goddess of salt water and chaos, also mother of all gods. In the Babylonian creation epic, the En\u00fbma Eli\u0161, after the separation of heaven and earth, the goddess Tiamat and her consort Abzu are the only deities in existence. A male-female pair, they mate and Tiamat gives birth to the first generation of gods. Ea (Enki) slays Abzu and Tiamat gives birth to eleven monsters to seek vengeance for her lover's death. Eventually, Marduk, the son of Enki and the national god of the Babylonians, slays Tiamat and uses her body to create the earth. In the Assyrian version of the story, it is Ashur who slays Tiamat instead. Tiamat was the personification of the primeval waters and it is hard to tell how the author of the En\u00fbma Eli\u0161 imagined her appearance.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "86",
+        "title": "Sirsir",
+        "content": "god of mariners.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "88",
+        "title": "Achelous",
+        "content": "Greek river god.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "89",
+        "title": "Aegaeon",
+        "content": "god of violent sea storms and ally of the Titans.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "90",
+        "title": "Alpheus",
+        "content": "river god in Arcadia.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "91",
+        "title": "Amphitrite",
+        "content": "sea goddess and consort of Poseidon and thus queen of the sea.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "92",
+        "title": "Anapos",
+        "content": "water god of eastern Sicily.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "93",
+        "title": "Asopus",
+        "content": "river god in Greece. Water",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "94",
+        "title": "Asterion",
+        "content": "river-god of Argos. Water",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "95",
+        "title": "Brito-Martis",
+        "content": "the goddess  is always depicted in arms.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "96",
+        "title": "Brizo",
+        "content": "goddess of sailors.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "97",
+        "title": "Carcinus",
+        "content": "a giant crab who allied itself with the Hydra against Heracles. When it died, Hera placed it in the sky as the constellation Cancer.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "98",
+        "title": "Ceto",
+        "content": "goddess of the dangers of the ocean and of sea monsters.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "99",
+        "title": "Charybdis",
+        "content": "a sea monster and spirit of whirlpools and the tide.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "100",
+        "title": "Cymopoleia",
+        "content": "a daughter of Poseidon and goddess of giant storm waves.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "101",
+        "title": "Doris",
+        "content": "goddess of the sea's bounty and wife of Nereus.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "102",
+        "title": "Dynamene",
+        "content": "sea nymph and daughter of Nereusassociated with the power and might of ocean waves.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "103",
+        "title": "Eidothea",
+        "content": "prophetic sea nymph and daughter of Proteus.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "104",
+        "title": "Electra",
+        "content": "an Oceanid, consort of Thaumas.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "105",
+        "title": "Enipeus",
+        "content": "a river god",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "106",
+        "title": "Eurybia",
+        "content": "goddess of the mastery of the seas.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "107",
+        "title": "Galene (\u0393\u03b1\u03bb\u03ae\u03bd\u03b7)",
+        "content": "goddess of calm seas.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "108",
+        "title": "Glaucus",
+        "content": "the fisherman's sea god.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "109",
+        "title": "Gorgons",
+        "content": "three monstrous sea spirits.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "110",
+        "title": "The Graeae",
+        "content": "three ancient sea spirits who personified the white foam of the sea; they shared one eye and one tooth between them.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "111",
+        "title": "Hippocampi",
+        "content": "the horses of the sea.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "112",
+        "title": "The Ichthyocentaurs",
+        "content": "a pair of centaurine sea-gods with the upper bodies of men, the lower fore-parts of horses, ending in the serpentine tails of fish.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "113",
+        "title": "Kymopoleia",
+        "content": "daughter of Poseidon and goddess of violent sea storms.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "114",
+        "title": "Leucothea",
+        "content": "a sea goddess who aided sailors in distress.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "115",
+        "title": "Nerites",
+        "content": "watery consort of Aphrodite and/or beloved of Poseidon.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "116",
+        "title": "Nereus",
+        "content": "the old man of the sea, and the god of the sea's rich bounty of fish.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "117",
+        "title": "Naiades",
+        "content": "freshwater nymphs.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "118",
+        "title": "Nereides",
+        "content": "sea nymphs.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "119",
+        "title": "Oceanides",
+        "content": "nymphs of freshwater sources.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "120",
+        "title": "Oceanus",
+        "content": "Titan god of the Earth-encircling river Okeanos, the font of all the Earth's fresh water.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "121",
+        "title": "Palaemon",
+        "content": "a young sea god who aided sailors in distress.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "122",
+        "title": "Phorcys",
+        "content": "god of the hidden dangers of the deep.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "123",
+        "title": "Pontus",
+        "content": "primeval god of the sea, father of the fish and other sea creatures.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "125",
+        "title": "Potamoi",
+        "content": "deities of rivers, fathers of Naiads, brothers of the Oceanids, and as such, the sons of Oceanus and Tethys. Water.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "126",
+        "title": "Proteus",
+        "content": "a shape-shifting, prophetic old sea god, and the herdsman of Poseidon's seals.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "127",
+        "title": "Psamathe",
+        "content": "goddess of sand beaches.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "128",
+        "title": "Scylla",
+        "content": "a sea monster, later authors made up a backstory of her being a Nereid transformed into a monster due to Circe's jealousy.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "129",
+        "title": "The Telchines",
+        "content": "sea spirits native to the island of Rhodes; the gods killed them when they turned to evil magic.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "130",
+        "title": "Tethys",
+        "content": "Titan goddess of the sources fresh-water, and the mother of the rivers (Potamoi), springs, streams, fountains and clouds.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "131",
+        "title": "Thalassa",
+        "content": "primordial goddess of the sea.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "132",
+        "title": "Thaumas",
+        "content": "god of the wonders of the sea and father of the Harpies and the rainbow goddess Iris.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "133",
+        "title": "Thetis",
+        "content": "leader of the Nereids who presided over the spawning of marine life in the sea, mother of Achilles.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "134",
+        "title": "Triteia",
+        "content": "daughter of Triton and companion of Ares.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "135",
+        "title": "Triton",
+        "content": "fish-tailed son and herald of Poseidon.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "136",
+        "title": "Tritones",
+        "content": "fish-tailed spirits in Poseidon's retinue.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "137",
+        "title": "Aspidochelone",
+        "content": "colossal sea monster from the medieval bestiary Physiologus.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "138",
+        "title": "Coventina",
+        "content": "Romano-British goddess of a sacred spring at Carrawburgh on Hadrian's Wall.",
+        "category": "Roman mythology"
+    },
+    {
+        "id": "139",
+        "title": "Fontus",
+        "content": "god of wells and springs.",
+        "category": "Roman mythology"
+    },
+    {
+        "id": "140",
+        "title": "Juturna",
+        "content": "goddess of fountains, wells, and springs.",
+        "category": "Roman mythology"
+    },
+    {
+        "id": "141",
+        "title": "Neptune",
+        "content": "god-king of the sea. His Greek counterpart was Poseidon.",
+        "category": "Roman mythology"
+    },
+    {
+        "id": "142",
+        "title": "Salacia",
+        "content": "goddess of saltwater. Neptune's consort.",
+        "category": "Roman mythology"
+    },
+    {
+        "id": "143",
+        "title": "Tiberinus",
+        "content": "the genius of the river Tiber.",
+        "category": "Roman mythology"
+    },
+    {
+        "id": "144",
+        "title": "Volturnus",
+        "content": "a god of the Tiber who may originally have been a god of all rivers.",
+        "category": "Roman mythology"
+    },
+    {
+        "id": "145",
+        "title": "Aruna",
+        "content": "god of the sea.",
+        "category": "Hittite mythology"
+    },
+    {
+        "id": "146",
+        "title": "Ast\u0142ik",
+        "content": "goddess of fertility and love, and consort of Vahagn. In the later pre-Christian period she became the goddess of love, maidenly beauty, and of water sources and springs.",
+        "category": "Armenian mythology"
+    },
+    {
+        "id": "147",
+        "title": "Tsovinar",
+        "content": "goddess of seas and storms.",
+        "category": "Armenian mythology"
+    },
+    {
+        "id": "148",
+        "title": "Donbettyr",
+        "content": "master of all waters, and the protector of fish and fishermen.His name is possibly derived from don, meaning 'river', derived from danu, meaning 'to flow', as a prefix for the name Peter (Bettyr), possibly in reference to Saint Peter. He is the Ossetian equivalent of the Greek Poseidon.",
+        "category": "Ossetia mythology"
+    },
+    {
+        "id": "149",
+        "title": "Ahurani",
+        "content": "is a water goddess from ancient Persian mythology who watches over rainfall as well as standing water.",
+        "category": "Persian and Zoroastrian mythology"
+    },
+    {
+        "id": "150",
+        "title": "Anahita",
+        "content": "the divinity of \"the Waters\" (Aban) and associated with fertility, healing, and wisdom.",
+        "category": "Persian and Zoroastrian mythology"
+    },
+    {
+        "id": "151",
+        "title": "Bangp\u016btys",
+        "content": "god of sea and storm.",
+        "category": "Lithuanian mythology"
+    },
+    {
+        "id": "152",
+        "title": "Laum\u0117",
+        "content": "goddess of wild spaces, including waters.",
+        "category": "Lithuanian mythology"
+    },
+    {
+        "id": "153",
+        "title": "Kostroma",
+        "content": "goddess of fertility. After discovering that her husband, Kupala, is her brother, she jumped into the forest lake (in other legends into the river Ra). After her death, she became a mavka (or rusalka).",
+        "category": "Slavic mythology"
+    },
+    {
+        "id": "154",
+        "title": "Mati-syra-zemlya",
+        "content": "moist mother, also the Earth goddess.",
+        "category": "Slavic mythology"
+    },
+    {
+        "id": "155",
+        "title": "Mokosh",
+        "content": "moistness, lady of waters, goddess of moisture.",
+        "category": "Slavic mythology"
+    },
+    {
+        "id": "156",
+        "title": "Dodola",
+        "content": "goddess of rain.",
+        "category": "Slavic mythology"
+    },
+    {
+        "id": "157",
+        "title": "Morskoy Tsar",
+        "content": "the god and king of the sea.",
+        "category": "Slavic mythology"
+    },
+    {
+        "id": "158",
+        "title": "Moryana",
+        "content": "a giant female sea spirit.",
+        "category": "Slavic mythology"
+    },
+    {
+        "id": "159",
+        "title": "Rusalki",
+        "content": "female ghosts, water nymphs, succubi or mermaid-like demons that dwell in waterways.",
+        "category": "Slavic mythology"
+    },
+    {
+        "id": "160",
+        "title": "Veles",
+        "content": "god of Earth, waters, and the underworld.",
+        "category": "Slavic mythology"
+    },
+    {
+        "id": "161",
+        "title": "Vodyanoi",
+        "content": "water demon who lived in lakes and rivers.",
+        "category": "Slavic mythology"
+    },
+    {
+        "id": "162",
+        "title": "Belisama",
+        "content": "goddess of lakes and rivers, fire, crafts, and light.",
+        "category": "Celtic mythology"
+    },
+    {
+        "id": "163",
+        "title": "Grannus",
+        "content": "a god associated with spas, the sun, fires and healing thermal and mineral springs.",
+        "category": "Celtic mythology"
+    },
+    {
+        "id": "164",
+        "title": "Nantosuelta",
+        "content": "river goddess of fire, the earth, healing, and fertility.",
+        "category": "Celtic mythology"
+    },
+    {
+        "id": "165",
+        "title": "Nodens",
+        "content": "god associated with healing, the sea, hunting and dogs.",
+        "category": "Celtic mythology"
+    },
+    {
+        "id": "166",
+        "title": "Damona",
+        "content": "water goddess associated with healing and rivers",
+        "category": "Celtic mythology"
+    },
+    {
+        "id": "167",
+        "title": "Ll\u0177r",
+        "content": "",
+        "category": "Selkie mythology"
+    },
+    {
+        "id": "168",
+        "title": "Acionna",
+        "content": "a water goddess/genius loci of the Orleanais region and the Essonne.",
+        "category": "Gaulish mythology"
+    },
+    {
+        "id": "169",
+        "title": "Condatis",
+        "content": "god of the River Wear and healing.",
+        "category": "Gaulish mythology"
+    },
+    {
+        "id": "170",
+        "title": "Segeta",
+        "content": "goddess of the Loire.",
+        "category": "Gaulish mythology"
+    },
+    {
+        "id": "171",
+        "title": "Sequana",
+        "content": "goddess of the River Seine.",
+        "category": "Gaulish mythology"
+    },
+    {
+        "id": "172",
+        "title": "Souconna",
+        "content": "goddess of the Sa\u00f4ne.",
+        "category": "Gaulish mythology"
+    },
+    {
+        "id": "173",
+        "title": "Sirona",
+        "content": "a goddess associated with healing springs.",
+        "category": "Gaulish mythology"
+    },
+    {
+        "id": "174",
+        "title": "Brigid",
+        "content": "a goddess sometimes associated with water and where three streams join together (relating to her being a Triple Goddess)",
+        "category": "Irish mythology"
+    },
+    {
+        "id": "175",
+        "title": "Boann",
+        "content": "goddess of the River Boyne.",
+        "category": "Irish mythology"
+    },
+    {
+        "id": "176",
+        "title": "Danu (Dana)",
+        "content": "Continental Celtic river goddess. Her Irish variation was an ancestor/mother goddess.",
+        "category": "Irish mythology"
+    },
+    {
+        "id": "177",
+        "title": "Manann\u00e1n mac Lir",
+        "content": "god of the sea.",
+        "category": "Irish mythology"
+    },
+    {
+        "id": "178",
+        "title": "L\u00ed Ban",
+        "content": "water goddess.",
+        "category": "Irish mythology"
+    },
+    {
+        "id": "179",
+        "title": "Lir",
+        "content": "god of the sea.",
+        "category": "Irish mythology"
+    },
+    {
+        "id": "180",
+        "title": "Sinann",
+        "content": "goddess of the River Shannon.",
+        "category": "Irish mythology"
+    },
+    {
+        "id": "181",
+        "title": "Dylan Eil Ton",
+        "content": "god of the sea",
+        "category": "Welsh mythology"
+    },
+    {
+        "id": "182",
+        "title": "Ll\u0177r",
+        "content": "god of the sea.",
+        "category": "Welsh mythology"
+    },
+    {
+        "id": "183",
+        "title": "Bandua",
+        "content": "theonym associated with fountains.",
+        "category": "Lusitanian mythology"
+    },
+    {
+        "id": "184",
+        "title": "Duberdicus",
+        "content": "god of the sea and rivers.",
+        "category": "Lusitanian mythology"
+    },
+    {
+        "id": "185",
+        "title": "Durius",
+        "content": "personification of the Douro river.",
+        "category": "Lusitanian mythology"
+    },
+    {
+        "id": "186",
+        "title": "\u00c6gir",
+        "content": "personification of the sea.",
+        "category": "Ancient mythology"
+    },
+    {
+        "id": "187",
+        "title": "Freyr",
+        "content": "god of rain, sunlight, fertility, life, and summer.",
+        "category": "Ancient mythology"
+    },
+    {
+        "id": "188",
+        "title": "Nehalennia",
+        "content": "goddess of the North Sea.",
+        "category": "Ancient mythology"
+    },
+    {
+        "id": "189",
+        "title": "Nerthus",
+        "content": "mostly an earth goddess, but is also associated with lakes, springs, and holy waters.",
+        "category": "Ancient mythology"
+    },
+    {
+        "id": "190",
+        "title": "Nine Daughters of \u00c6gir",
+        "content": "who personify the characteristics of waves.",
+        "category": "Ancient mythology"
+    },
+    {
+        "id": "191",
+        "title": "Nix",
+        "content": "water spirits who usually appear in human form.",
+        "category": "Ancient mythology"
+    },
+    {
+        "id": "192",
+        "title": "Nj\u00f6r\u00f0r",
+        "content": "god of the sea, particularly of seafaring.",
+        "category": "Ancient mythology"
+    },
+    {
+        "id": "193",
+        "title": "R\u00e1n",
+        "content": "sea goddess of death who collects the drowned in a net, wife of \u00c6gir.",
+        "category": "Ancient mythology"
+    },
+    {
+        "id": "194",
+        "title": "Rhenus Pater",
+        "content": "god of the Rhine river",
+        "category": "Ancient mythology"
+    },
+    {
+        "id": "195",
+        "title": "Rura",
+        "content": "goddess of the Rur river",
+        "category": "Ancient mythology"
+    },
+    {
+        "id": "196",
+        "title": "S\u00e1ga",
+        "content": "wisdom goddess who lives near water and pours Odin a drink when he visits.",
+        "category": "Ancient mythology"
+    },
+    {
+        "id": "197",
+        "title": "Late 18th-century statue of Father Thames by John Bacon the elder at Ham House",
+        "content": "near Richmond, London",
+        "category": "English folklore mythology"
+    },
+    {
+        "id": "198",
+        "title": "Father Thames",
+        "content": "human manifestation and/or guardian of the River Thames that flows through Southern England, while his ancient worship is obscure, he has become a popular symbol of the river in modern times, it being the subject of the song \"Old \" and the model of several statues and reliefs scattered around London.",
+        "category": "English folklore mythology"
+    },
+    {
+        "id": "199",
+        "title": "Davy Jones",
+        "content": "the Devil of the seas in Western piratical lore.",
+        "category": "English folklore mythology"
+    },
+    {
+        "id": "200",
+        "title": "Tiddy Mun",
+        "content": "a bog deity once worshiped in Lincolnshire, England who had the ability to control floods.",
+        "category": "English folklore mythology"
+    },
+    {
+        "id": "201",
+        "title": "Sj\u00f6r\u00e5",
+        "content": "female lake spirits in Swedish folklore",
+        "category": "Scandinavian folklore mythology"
+    },
+    {
+        "id": "202",
+        "title": "Ahti",
+        "content": "god of the depths and fish.",
+        "category": "Finnish mythology"
+    },
+    {
+        "id": "203",
+        "title": "Iku-Turso",
+        "content": "a malevolent sea monster.",
+        "category": "Finnish mythology"
+    },
+    {
+        "id": "204",
+        "title": "Vedenemo/Ved-ava",
+        "content": "a goddess of water.",
+        "category": "Finnish mythology"
+    },
+    {
+        "id": "205",
+        "title": "Vellamo",
+        "content": "the wife of Ahti, goddess of the sea, lakes, and storms.",
+        "category": "Finnish mythology"
+    },
+    {
+        "id": "206",
+        "title": "Aipaloovik",
+        "content": "an evil sea god associated with death and destruction.",
+        "category": "Inuit mythology"
+    },
+    {
+        "id": "207",
+        "title": "Alignak",
+        "content": "a lunar deity and god of weather, water, tides, eclipses, and earthquakes.",
+        "category": "Inuit mythology"
+    },
+    {
+        "id": "208",
+        "title": "Arnapkapfaaluk",
+        "content": "a fearsome sea goddess.",
+        "category": "Inuit mythology"
+    },
+    {
+        "id": "209",
+        "title": "Idliragijenget",
+        "content": "god of the ocean.",
+        "category": "Inuit mythology"
+    },
+    {
+        "id": "210",
+        "title": "Kanajuk",
+        "content": "the scorpionfish god and husband of the goddesses Nuliajuk and Isarraitaitsoq.",
+        "category": "Inuit mythology"
+    },
+    {
+        "id": "211",
+        "title": "Nootaikok",
+        "content": "god who presided over icebergs and glaciers.",
+        "category": "Inuit mythology"
+    },
+    {
+        "id": "212",
+        "title": "Nuliajuk and Isarraitaitsoq",
+        "content": "goddesses of the sea's depths and its creatures among the Netsilik Inuit.",
+        "category": "Inuit mythology"
+    },
+    {
+        "id": "213",
+        "title": "Sedna",
+        "content": "goddess of the sea and its creatures.",
+        "category": "Inuit mythology"
+    },
+    {
+        "id": "214",
+        "title": "Atlaua",
+        "content": "god of water, archers, and fishermen.",
+        "category": "Mexica mythology"
+    },
+    {
+        "id": "215",
+        "title": "Chalchiuhtlicue",
+        "content": "goddess of water, lakes, rivers, seas, streams, horizontal waters, storms, and baptism.",
+        "category": "Mexica mythology"
+    },
+    {
+        "id": "216",
+        "title": "Opochtli",
+        "content": "god of fishing and birdcatchers.",
+        "category": "Mexica mythology"
+    },
+    {
+        "id": "217",
+        "title": "Tl\u0101loc",
+        "content": "god of water, fertility, and rain.",
+        "category": "Mexica mythology"
+    },
+    {
+        "id": "218",
+        "title": "Tlaloque",
+        "content": "a group of rain, water, and mountain gods.",
+        "category": "Mexica mythology"
+    },
+    {
+        "id": "220",
+        "title": "Agw\u00e9",
+        "content": "a sea loa.",
+        "category": "Ewe / Fon mythology"
+    },
+    {
+        "id": "221",
+        "title": "Clermeil",
+        "content": "a river loa.",
+        "category": "Ewe / Fon mythology"
+    },
+    {
+        "id": "222",
+        "title": "Mami Wata",
+        "content": "a water loa.",
+        "category": "Ewe / Fon mythology"
+    },
+    {
+        "id": "223",
+        "title": "Pie",
+        "content": "a lake and river loa.",
+        "category": "Ewe / Fon mythology"
+    },
+    {
+        "id": "224",
+        "title": "Chaac",
+        "content": "god of rain.",
+        "category": "Mayan mythology"
+    },
+    {
+        "id": "225",
+        "title": "Kukulcan",
+        "content": "god of the seas, oceans, and storms",
+        "category": "Mayan mythology"
+    },
+    {
+        "id": "226",
+        "title": "Ta\u00edno",
+        "content": "",
+        "category": "Mayan mythology"
+    },
+    {
+        "id": "227",
+        "title": "Atabey (goddess)",
+        "content": "Mother goddess of fresh water and fertility. Female counterpart of the god Y\u00facahu.",
+        "category": "Mayan mythology"
+    },
+    {
+        "id": "228",
+        "title": "Tupi-Guarani (Brazilian Myth)",
+        "content": "",
+        "category": "South America mythology"
+    },
+    {
+        "id": "229",
+        "title": "Amanasy",
+        "content": "Goddess of the rain and frogs",
+        "category": "South America mythology"
+    },
+    {
+        "id": "230",
+        "title": "Iara",
+        "content": "Guardian of the water and of the Amazon River",
+        "category": "South America mythology"
+    },
+    {
+        "id": "231",
+        "title": "Ipupiara",
+        "content": "Guardian of the sea",
+        "category": "South America mythology"
+    },
+    {
+        "id": "232",
+        "title": "Lurua\u00e7u",
+        "content": "Goddess of the storms",
+        "category": "South America mythology"
+    },
+    {
+        "id": "233",
+        "title": "Tup\u00e3",
+        "content": "God of the thunder, weather, storms and clouds",
+        "category": "South America mythology"
+    },
+    {
+        "id": "234",
+        "title": "Pariacaca",
+        "content": "god of water and rainstorms.",
+        "category": "Incan mythology"
+    },
+    {
+        "id": "235",
+        "title": "Paricia",
+        "content": "god who sent a flood to kill humans who did not respect him adequately.",
+        "category": "Incan mythology"
+    },
+    {
+        "id": "236",
+        "title": "Panche/Muisca",
+        "content": "",
+        "category": "Incan mythology"
+    },
+    {
+        "id": "237",
+        "title": "Mohan",
+        "content": "a mischievous entity associated with rivers, lakes and water in general.",
+        "category": "Incan mythology"
+    },
+    {
+        "id": "238",
+        "title": "Western -Congo",
+        "content": "",
+        "category": "None mythology"
+    },
+    {
+        "id": "239",
+        "title": "Ezili",
+        "content": "goddess of sweet water, beauty, and love.",
+        "category": "Benin mythology"
+    },
+    {
+        "id": "240",
+        "title": "Nommos",
+        "content": "amphibious spirits that are worshipped as ancestors.",
+        "category": "Dogon mythology"
+    },
+    {
+        "id": "241",
+        "title": "Mindiss (or Mindis)",
+        "content": "is not a deity in Serer religion but a pangool with goddess\u2013like attributes. She is a female protector of the Fatick Region. Offerings are made in her name at the River Sine. She appears to humans in the form of a manatee, She is one of the best known fangool (singular of pangool). She possess the attributes of a typical water fangool, yet at the same time, she is a blood fangool. The Senegalese Ministry of Culture added the Mbind Ngo Mindiss site to its list of monuments and historic sites in Fatick. It is the site where offerings are made, situated on the arms of the sea which bears her name, in the Sine.",
+        "category": "Serer mythology"
+    },
+    {
+        "id": "242",
+        "title": "Oshun",
+        "content": "a orisha of fresh \u201csweet\u201d waters and the Osun River.",
+        "category": "Yoruba mythology"
+    },
+    {
+        "id": "243",
+        "title": "Olokun",
+        "content": "an ocean orisha. In Edo-Benin mythology (not Yoruba) he was the god of all waters.",
+        "category": "Yoruba mythology"
+    },
+    {
+        "id": "244",
+        "title": "Yemoja",
+        "content": "originally the orisha of the Ogun River (largest river in Yoruba land) but became the orisha over the sea waves by way of the Trans-Atlantic Slave Trade. Originally was the metaphysical mother of all the Orishas. In some traditional-myths she is the co-creator of humans with Obatala.",
+        "category": "Yoruba mythology"
+    },
+    {
+        "id": "245",
+        "title": "Olosa",
+        "content": "wife of Olokun, orisha over lagoons.",
+        "category": "Yoruba mythology"
+    },
+    {
+        "id": "246",
+        "title": "Oya",
+        "content": "orisha of storms and the Niger River.",
+        "category": "Yoruba mythology"
+    },
+    {
+        "id": "247",
+        "title": "Oba",
+        "content": "orisha of the  River.",
+        "category": "Yoruba mythology"
+    },
+    {
+        "id": "248",
+        "title": "Yewa",
+        "content": "orisha of the  River.",
+        "category": "Yoruba mythology"
+    },
+    {
+        "id": "249",
+        "title": "Otin",
+        "content": "orisha of the  River.",
+        "category": "Yoruba mythology"
+    },
+    {
+        "id": "250",
+        "title": "Yemoo",
+        "content": "original wife of Obatala and orisha over waters and maternity. Said to be the original form of most female water orishas",
+        "category": "Yoruba mythology"
+    },
+    {
+        "id": "251",
+        "title": "Sezibwa",
+        "content": "goddess of the  River.",
+        "category": "Lugandan mythology"
+    },
+    {
+        "id": "252",
+        "title": "Nyami Nyami",
+        "content": "a river spirit of the Batonga of Zambia and Zimbabwe.",
+        "category": "Batonga mythology"
+    },
+    {
+        "id": "253",
+        "title": "Bunzi",
+        "content": "goddess of rain, rainbow and waters.",
+        "category": "Kongo mythology"
+    },
+    {
+        "id": "254",
+        "title": "Chicamassichinuinji",
+        "content": "king of oceans.",
+        "category": "Kongo mythology"
+    },
+    {
+        "id": "255",
+        "title": "Funza",
+        "content": "goddess of waters, twin phenomenon and malformations in children. Wife of Mbumba.",
+        "category": "Kongo mythology"
+    },
+    {
+        "id": "256",
+        "title": "Kalunga",
+        "content": "god of death and border between world of Alives and world of dead.",
+        "category": "Kongo mythology"
+    },
+    {
+        "id": "257",
+        "title": "Kimbazi",
+        "content": "goddess of sea storms.",
+        "category": "Kongo mythology"
+    },
+    {
+        "id": "258",
+        "title": "Kuitikuiti",
+        "content": "serpent god of Congo river.",
+        "category": "Kongo mythology"
+    },
+    {
+        "id": "259",
+        "title": "Lusunzi",
+        "content": "god of spring and waters.",
+        "category": "Kongo mythology"
+    },
+    {
+        "id": "260",
+        "title": "Mamba Muntu",
+        "content": "goddesses of waters and sexuality.",
+        "category": "Kongo mythology"
+    },
+    {
+        "id": "261",
+        "title": "Makanga.",
+        "content": "",
+        "category": "Kongo mythology"
+    },
+    {
+        "id": "262",
+        "title": "Mbantilanda.",
+        "content": "",
+        "category": "Kongo mythology"
+    },
+    {
+        "id": "263",
+        "title": "Mbumba",
+        "content": "rainbow serpent of terrestrial waters and warriors.",
+        "category": "Kongo mythology"
+    },
+    {
+        "id": "264",
+        "title": "Mboze.",
+        "content": "",
+        "category": "Kongo mythology"
+    },
+    {
+        "id": "265",
+        "title": "Mpulu Bunzi",
+        "content": "god of rain and waters.",
+        "category": "Kongo mythology"
+    },
+    {
+        "id": "266",
+        "title": "Simbi dia Maza",
+        "content": "nymphs or goddesses of waters, lakes and rivers.",
+        "category": "Kongo mythology"
+    },
+    {
+        "id": "267",
+        "title": "The Water Emperor-Official (Shuixian Zunwang) (shu\u01d0gu\u0101n)",
+        "content": "ruler of the ocean in some Taoist belief systems, and in others, he shared the same position as the Dragon King or did not exist. He was often held to 'avert misfortune'.",
+        "category": "Taoism and Chinese folk religion"
+    },
+    {
+        "id": "268",
+        "title": "Ehuang & Nuying",
+        "content": "goddesses of the Xiang River. Water.",
+        "category": "Taoism and Chinese folk religion"
+    },
+    {
+        "id": "269",
+        "title": "Gonggong",
+        "content": "red-haired dragon with the head of a man and water god who, together with his associate Xiang Yao, is responsible for the great floods.",
+        "category": "Taoism and Chinese folk religion"
+    },
+    {
+        "id": "270",
+        "title": "Hebo",
+        "content": "god of the Yellow River.",
+        "category": "Taoism and Chinese folk religion"
+    },
+    {
+        "id": "271",
+        "title": "Longmu",
+        "content": "goddess of the Xijiang River in the Lingnan area.",
+        "category": "Taoism and Chinese folk religion"
+    },
+    {
+        "id": "272",
+        "title": "Mazu",
+        "content": "goddess of the sea and protector of seafarers. Water",
+        "category": "Taoism and Chinese folk religion"
+    },
+    {
+        "id": "273",
+        "title": "Shuimu",
+        "content": "goddess of the water.",
+        "category": "Taoism and Chinese folk religion"
+    },
+    {
+        "id": "274",
+        "title": "Shui Wei Niang",
+        "content": "goddess of the water.",
+        "category": "Taoism and Chinese folk religion"
+    },
+    {
+        "id": "275",
+        "title": "Shuidexianjun (\u6c34\u5fb7\u661f\u541b)",
+        "content": "",
+        "category": "Taoism and Chinese folk religion"
+    },
+    {
+        "id": "276",
+        "title": "Tam Kung",
+        "content": "sea deity worshiped in Hong Kong and Macau with the ability to forecast weather.",
+        "category": "Taoism and Chinese folk religion"
+    },
+    {
+        "id": "278",
+        "title": "Han Ao or Lu Ban",
+        "content": "the inventors.",
+        "category": "Taoism and Chinese folk religion"
+    },
+    {
+        "id": "279",
+        "title": "Qu Yuan",
+        "content": "Wu Zixu, and Xiang Yu, famous suicides lost in rivers.",
+        "category": "Taoism and Chinese folk religion"
+    },
+    {
+        "id": "280",
+        "title": "Yu the Great",
+        "content": "tamer of China's Great Flood.",
+        "category": "Taoism and Chinese folk religion"
+    },
+    {
+        "id": "281",
+        "title": "Dragon Kings of the Four Seas",
+        "content": "The Azure Dragon or Blue-Green Dragon (靑龍 Qīnglóng), or Green Dragon (蒼龍 Cānglóng), is the Dragon God of the east, and of the essence of spring. The Red Dragon (赤龍 Chìlóng or 朱龍 Zhūlóng, literally 'Cinnabar Dragon', 'Vermilion Dragon') is the Dragon God of the south and of the essence of summer. The White Dragon (白龍 Báilóng) is the Dragon God of the west and the essence of autumn. The Yellow Dragon (黃龍 Huánglóng) is the Dragon God of the center, associated with (late) summer. The Black Dragon (黑龍 Hēilóng), also called 'Dark Dragon' or 'Mysterious Dragon' (玄龍 Xuánlóng), is the Dragon God of the north and the essence of winter.",
+        "category": "Taoism and Chinese folk religion"
+    },
+    {
+        "id": "286",
+        "title": "Ebisu",
+        "content": "god of fortunes and fishery, often being referred to marine megafaunas such as whales and whale sharks (hence being also called \"-shark\").",
+        "category": "Japanese mythology"
+    },
+    {
+        "id": "287",
+        "title": "Hanzaki Daimyojin",
+        "content": "gigantic Japanese giant salamander and master of the water.",
+        "category": "Japanese mythology"
+    },
+    {
+        "id": "288",
+        "title": "Kuraokami",
+        "content": "one of Suijin.",
+        "category": "Japanese mythology"
+    },
+    {
+        "id": "289",
+        "title": "Mizuchi",
+        "content": "Japanese dragon and sea god.",
+        "category": "Japanese mythology"
+    },
+    {
+        "id": "290",
+        "title": "\u014cyamatsumi",
+        "content": "god of mountains, sea and war.",
+        "category": "Japanese mythology"
+    },
+    {
+        "id": "291",
+        "title": "Ry\u016bjin or Watatsumi",
+        "content": "Japanese dragon king and tutelary deity of the sea, ocean god.",
+        "category": "Japanese mythology"
+    },
+    {
+        "id": "292",
+        "title": "Suijin",
+        "content": "Shinto god of water.",
+        "category": "Japanese mythology"
+    },
+    {
+        "id": "293",
+        "title": "Sumiyoshi sanjin",
+        "content": "god of ocean and sailing.",
+        "category": "Japanese mythology"
+    },
+    {
+        "id": "294",
+        "title": "Susanoo",
+        "content": "Shinto god of storms and the sea.",
+        "category": "Japanese mythology"
+    },
+    {
+        "id": "296",
+        "title": "Yamata no Orochi",
+        "content": "serpentine monster but also regarded as an incarnation of violent river.",
+        "category": "Japanese mythology"
+    },
+    {
+        "id": "297",
+        "title": "Amemasu",
+        "content": "monster in the lakes.",
+        "category": "Ainu mythology"
+    },
+    {
+        "id": "298",
+        "title": "Rep-un-kamui",
+        "content": "god of the sea, often referring to orca.",
+        "category": "Ainu mythology"
+    },
+    {
+        "id": "299",
+        "title": "Imoogi or Imugi",
+        "content": "giant serpents of Korean folklore which later become true dragons.",
+        "category": "Korean mythology"
+    },
+    {
+        "id": "300",
+        "title": "King Munmu",
+        "content": "a king who wished to become a dragon before his death to protect Korea from the Sea of Japan (East Sea).",
+        "category": "Korean mythology"
+    },
+    {
+        "id": "301",
+        "title": "Yongwang",
+        "content": "an undersea deity believed to determine the fortunes of fishermen and sailors.",
+        "category": "Korean mythology"
+    },
+    {
+        "id": "302",
+        "title": "In Hindu culture",
+        "content": "each water body is worshipped as a form of God. Hence, the rivers are worshipped as goddesses and the ocean is worshipped as a god.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "303",
+        "title": "Varuna",
+        "content": "the Lord of All the Water Bodies",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "304",
+        "title": "Ap",
+        "content": "group of water goddesses.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "305",
+        "title": "Apam Napat",
+        "content": "god of fresh water, such as in rivers and lakes.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "306",
+        "title": "Danu",
+        "content": "goddess of primordial waters, mother of Vritra and the Danavas.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "307",
+        "title": "Makara",
+        "content": "mystical creature of waters.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "308",
+        "title": "Varuna",
+        "content": "the God of the ocean and rains and water.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "309",
+        "title": "Indra",
+        "content": "King of the Gods, God of weather, and bringer of rain, thunderstorms and clouds.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "310",
+        "title": "Saptasindhu",
+        "content": "the seven holy rivers of India, namely:",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "311",
+        "title": "Ganga",
+        "content": "the Goddess of the Ganges River.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "312",
+        "title": "Yamuna",
+        "content": "the Goddess of the  River.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "313",
+        "title": "Saraswati",
+        "content": "the divine Goddess of knowledge and wisdom who was personified as a river that dried up in ancient times.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "314",
+        "title": "Indus",
+        "content": "also called Sindhu. The river is considered the eldest daughter of the Himalaya mountains.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "315",
+        "title": "Narmada",
+        "content": "the river Goddess often worshipped as a deity and daughter of Lord Shiva.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "316",
+        "title": "Godavari",
+        "content": "the longest river of South India. The river is also considered as Dakshina Ganga aka South(ern) Ganga.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "317",
+        "title": "Kaveri",
+        "content": "a river of South India, worshipped by people as a goddess who was previously incarnated as Lopamudra, the wife of Sage Agastya.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "318",
+        "title": "Rivers such as Tapi",
+        "content": "also known as Tapati, is worshipped as a daughter of the sun god, Surya.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "319",
+        "title": "The river Krishna",
+        "content": "worshipped as Krishnaveni Devi/Krishna Mai, is considered to be Lord Vishnu born as a river.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "320",
+        "title": "Tungabhadra",
+        "content": "a tributary of Krishna, is worshipped as a goddess. The river is also known as Pampa.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "321",
+        "title": "Pamba River and Suvarnamukhi River flowing past the holy temple towns of Sabarimala in Kerala and Tirupati and Srikalahasti in Andhra Pradesh",
+        "content": "respectively.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "322",
+        "title": "The river Brahmaputra is the only river to have a male personification",
+        "content": "whose name means \"son of Brahma\", the creator.",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "323",
+        "title": "Mariamman",
+        "content": "regional goddess of the rain and medicine",
+        "category": "Hindu mythology"
+    },
+    {
+        "id": "324",
+        "title": "Wangbren",
+        "content": "the Sea God who holds storm, rain and disaster .",
+        "category": "Manipuri mythology"
+    },
+    {
+        "id": "325",
+        "title": "Poubi Lai",
+        "content": "the giant dragon who ruled its tyranny in the Loktak lake.",
+        "category": "Manipuri mythology"
+    },
+    {
+        "id": "326",
+        "title": "Irai Leima",
+        "content": "the Goddess of water and aquatic life.",
+        "category": "Manipuri mythology"
+    },
+    {
+        "id": "327",
+        "title": "Irai Leima",
+        "content": "goddess of water, sent down to Earth to teach humanity to build a civilisation",
+        "category": "Meitei mythology"
+    },
+    {
+        "id": "328",
+        "title": "Ng\u0101reima",
+        "content": "goddess of fish",
+        "category": "Meitei mythology"
+    },
+    {
+        "id": "329",
+        "title": "Wangbren",
+        "content": "god of the underwater world",
+        "category": "Meitei mythology"
+    },
+    {
+        "id": "330",
+        "title": "Tlaltecuhtli",
+        "content": "the earth deity whose body created the world",
+        "category": "Aztec mythology"
+    },
+    {
+        "id": "331",
+        "title": "Tezcatlipoca",
+        "content": "Aztec deity associated with the earth, the night sky, the night winds, hurricanes, the north, obsidian, enmity, discord, rulership, divination, temptation, jaguars, sorcery, beauty, war and strife.",
+        "category": "Aztec mythology"
+    },
+    {
+        "id": "332",
+        "title": "Hah-nu-nah",
+        "content": "the turtle that bears the world.",
+        "category": "Haudenosaunee mythology"
+    },
+    {
+        "id": "333",
+        "title": "Apu",
+        "content": "a deity of the mountains",
+        "category": "Inca mythology"
+    },
+    {
+        "id": "334",
+        "title": "Pachamama",
+        "content": "'Earth Mother' type goddess, and a fertility goddess who presides over planting and harvesting, embodies the mountains, and causes earthquakes. She is also an ever-present and independent deity who has her own creative power to sustain life on this earth. Her shrines are hallowed rocks, or the boles of legendary trees, and her artists envision her as an adult female bearing harvests of potatoes or coca leaves. The four cosmological Quechua principles (Water, Earth, Sun, and Moon) claim Pachamama as their prime origin. Priests sacrifice offerings of llamas, cuy (guinea pigs), children (The Capacocha Ritual) and elaborate, miniature, burned garments to her.",
+        "category": "Inca mythology"
+    },
+    {
+        "id": "336",
+        "title": "Alignak",
+        "content": "in Inuit mythology, a lunar deity, but also god of earthquakes, as well as weather, water, tides, and eclipses",
+        "category": "Inuit mythology"
+    },
+    {
+        "id": "337",
+        "title": "Maka-aka\u014b",
+        "content": "the earth goddess",
+        "category": "Lakota mythology"
+    },
+    {
+        "id": "338",
+        "title": "Aganju",
+        "content": "in Cuba, is a volcano deity for the practitioners of the Lucumi, Santeria religion",
+        "category": "Lucumi"
+    },
+    {
+        "id": "339",
+        "title": "Trengtrengfilu",
+        "content": "Mapuche god of Earth and Fertility (or goddess in some versions found in Chilo\u00e9); he has a generous spirit and is the protector of all life on Earth, and the flora and fauna and according to some Mapuche myths (later also found in Chilo\u00e9). This snake was a central figure in the Origin Of The Chiloean Archipelago. Son of Ant\u00fc (a Pillan spirit).",
+        "category": "Mapuche"
+    },
+    {
+        "id": "340",
+        "title": "Spider Grandmother",
+        "content": "She is a female creation figure found in many mythologies of Native American tribes including Navajo, Keresan and Hopi, and though her role differs in each society she is generally seen as the source of human and animal life on earth. represented wisdom and education. She provided the first people with the skills they needed to survive, such as planting crops and weaving. The spider so closely associated with the goddess is a symbol of the ability to weave and to create something from one's own body, just as a spider makes silk.",
+        "category": "Native American"
+    },
+    {
+        "id": "341",
+        "title": "Zeus",
+        "content": "King of the gods and ruler of Mount Olympus; god of the sky, lightning, thunder, law, order and justice. The youngest child of the Titans Cronus and Rhea. Brother and husband of Hera and brother of Poseidon, Hades, Demeter, and Hestia. He had many affairs with goddesses and mortals, such as his sister Demeter, the Titan Leto, mortals Leda and Alcmene, and more. His symbols include the thunderbolt, eagle, oak tree, bull, scepter, and scales. Olympian.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "342",
+        "title": "Poseidon",
+        "content": "God of the seas, water, storms, hurricanes, earthquakes and horses. The middle son of Cronus and Rhea. Brother of Zeus and Hades. Married to the Nereid Amphitrite; although, as with many of the male Greek gods, he had many lovers. His symbols include the horse, bull, dolphin, and trident. Olympian.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "343",
+        "title": "Hera",
+        "content": "Queen of the gods and the goddess of marriage, women, childbirth and family. The youngest daughter of Cronus and Rhea. Sister and wife of Zeus. Being the goddess of marriage, she frequently tried to get revenge on Zeus' lovers and their children. Her symbols include the peacock, cuckoo, and cow. Olympian.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "344",
+        "title": "Ares",
+        "content": "God of war, violence, bloodshed and manly virtues. The son of Zeus and Hera, all the other gods despised him except Aphrodite. His Latin name, Mars, gave us the word martial. His symbols include the boar, serpent, dog, vulture, spear, and shield. Olympian",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "345",
+        "title": "Artemis",
+        "content": "Goddess of the hunt, the wilderness, virginity, the Moon, archery, childbirth, protection and plague. The daughter of Zeus and Leto, and the twin sister of Apollo. Her symbols include the Moon, horse, deer, hound, she-bear, snake, cypress tree, and bow and arrow. Olympian",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "346",
+        "title": "Hephaestus",
+        "content": "Master blacksmith and craftsman of the gods; god of the forge, craftsmanship, invention, fire and volcanoes. The son of Hera, either by Zeus or through parthenogenesis. Married to Aphrodite. His Latin name, Vulcan, gave us the word volcano. His symbols include fire, anvil, axe, donkey, hammer, tongs, and quail. Olympian",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "347",
+        "title": "Apollo",
+        "content": "God of light, prophecy, philosophy, archery, truth, inspiration, poetry, music, arts, manly beauty, medicine, healing, the sun and plague. The son of Zeus and Leto, and the twin brother of Artemis. His symbols include bow and arrow, lyre, swan, and mouse. Olympian",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "348",
+        "title": "Hermes",
+        "content": "Messenger of the gods; god of travel, commerce, communication, borders, eloquence, diplomacy, thieves, and games. He was also the guide of dead souls. The son of Zeus and the nymph Maia. The second-youngest Olympian, just older than Dionysus. His symbols include the caduceus (staff entwined with two snakes), winged sandals and cap, stork, and tortoise (whose shell he used to invent the lyre). Olympian",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "349",
+        "title": "Hestia",
+        "content": "Goddess of the hearth, fire and of the right ordering of domesticity and the family; she was born into the first Olympian generation and was one of the original twelve Olympians. She is the first child of Cronus and Rhea, the elder sister of Hades, Demeter, Poseidon, Hera, and Zeus. Often an Olympian.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "350",
+        "title": "Demeter",
+        "content": "Goddess of the harvest, fertility, agriculture, nature and the seasons. She presided over grains and the fertility of the earth. The middle daughter of Cronus and Rhea. Also the lover of Zeus and Poseidon, and the mother of Persephone, Despoine, Arion. Her symbols include the poppy, wheat, torch, cornucopia, and pig. Olympian.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "351",
+        "title": "Aphrodite",
+        "content": "Goddess of love, pleasure, passion, procreation, fertility, beauty and desire. The daughter of Zeus and the Oceanid or Titaness Dione, or perhaps born from the sea foam after Uranus' blood dripped into the sea after being castrated by his youngest son, Cronus, who then threw his father's genitals into the sea. Married to Hephaestus, although she had many adulterous affairs, most notably with Ares. Her name gave us the word aphrodisiac, while her Latin name, Venus, gave us the word venereal. Her symbols include the dove, bird, apple, bee, swan, myrtle, and rose. Olympian.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "352",
+        "title": "Athena",
+        "content": "Goddess of wisdom, handicraft, and warfare. The daughter of Zeus and the Oceanid Metis, she rose from her father's head fully grown and in full battle armor. Her symbols include the owl and the olive tree. Olympian.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "353",
+        "title": "Dionysus",
+        "content": "God of wine, the grapevine, fertility, festivity, ecstasy, madness and resurrection. Patron god of the art of theatre. The son of Zeus and the mortal Theban princess Semele. Married to the Cretan princess Ariadne. The youngest Olympian god, as well as the only one to have a mortal parent. His symbols include the grapevine, ivy, cup, tiger, panther, leopard, dolphin, goat, and pinecone. Sometimes an Olympian.",
+        "category": "Greek mythology"
+    },
+    {
+        "id": "354",
+        "title": "Aten",
+        "content": "Sun disk deity who became the focus of the monolatrous or monotheistic Atenist belief system in the reign of Akhenaten",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "355",
+        "title": "Atum",
+        "content": "A creator god and solar deity, first god of the Ennead",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "356",
+        "title": "Bennu",
+        "content": "A solar and creator deity, depicted as a heron",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "357",
+        "title": "Geb",
+        "content": "An earth god and member of the Ennead",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "358",
+        "title": "Hapi",
+        "content": "Personification of the Nile flood",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "359",
+        "title": "Horus",
+        "content": "A major god, usually shown as a falcon or as a human child, linked with the sky, the sun, kingship, protection, and healing. Often said to be the son of Osiris and Isis.",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "360",
+        "title": "Khepri",
+        "content": "A solar creator god, often treated as the morning form of Ra and represented by a scarab beetle",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "361",
+        "title": "Khnum (Khnemu)",
+        "content": "A ram god, the patron deity of Elephantine, who was said to control the Nile flood and give life to gods and humans",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "362",
+        "title": "Khonsu",
+        "content": "A moon god, son of Amun and Mut",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "363",
+        "title": "Maahes (Mahes, Mihos)",
+        "content": "A lion god, son of Bastet",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "364",
+        "title": "Montu",
+        "content": "A god of war and the sun, worshipped at Thebes",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "365",
+        "title": "Nefertum",
+        "content": "God of the lotus blossom from which the sun god rose at the beginning of time. Son of Ptah and Sekhmet.",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "366",
+        "title": "Nemty",
+        "content": "Falcon god, worshipped in Middle Egypt,",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "367",
+        "title": "Neper",
+        "content": "A god of grain",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "369",
+        "title": "Ptah",
+        "content": "A creator deity and god of craftsmen, the patron god of Memphis",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "370",
+        "title": "Set",
+        "content": "An ambivalent god, characterized by violence, chaos, and strength, connected with the desert. Mythological murderer of Osiris and enemy of Horus, but also a supporter of the king.",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "371",
+        "title": "Shu",
+        "content": "Embodiment of wind or air, a member of the Ennead",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "372",
+        "title": "Sobek",
+        "content": "Crocodile god, worshipped in the Faiyum and at Kom Ombo",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "373",
+        "title": "Sopdu",
+        "content": "A god of the sky and of Egypt's eastern border regions",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "374",
+        "title": "Thoth",
+        "content": "A moon god, and a god of writing and scribes, and patron deity of Hermopolis",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "375",
+        "title": "Wadj-wer",
+        "content": "Personification of the Mediterranean sea or lakes of the Nile Delta",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "376",
+        "title": "Amunet",
+        "content": "Female counterpart of Amun and a member of the Ogdoad",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "377",
+        "title": "Anuket",
+        "content": "A feathered headdress wearing goddess of Egypt's southern frontier regions, particularly the lower cataracts of the Nile",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "378",
+        "title": "Bastet",
+        "content": "Goddess represented as a cat or lioness, patroness of the city of Bubastis, linked with protection from evil",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "379",
+        "title": "Bat",
+        "content": "Cow goddess from early in Egyptian history, eventually absorbed by Hathor",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "380",
+        "title": "Hathor (Egyptian: Het-Hert)",
+        "content": "One of the most important goddesses, linked with the sky, the sun, sexuality and motherhood, music and dance, foreign lands and goods, and the afterlife. One of many forms of the Eye of Ra.",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "381",
+        "title": "Heqet",
+        "content": "Frog goddess said to protect women in childbirth",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "382",
+        "title": "Hesat",
+        "content": "A maternal cow goddess",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "383",
+        "title": "Imentet (Amentet)",
+        "content": "An afterlife goddess closely linked with Isis and Hathor",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "384",
+        "title": "Isis",
+        "content": "Wife of Osiris and mother of Horus, linked with funerary rites, motherhood, protection, and magic. She became a major deity in Greek and Roman religion.",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "385",
+        "title": "Maat",
+        "content": "Goddess who personified truth, justice, and order",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "386",
+        "title": "Menhit",
+        "content": "A lioness goddess",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "387",
+        "title": "Mut",
+        "content": "Consort of Amun, worshipped at Thebes",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "388",
+        "title": "Neith",
+        "content": "A creator and hunter goddess, patron of the city of Sais in Lower Egypt",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "389",
+        "title": "Nekhbet (Nekhebit)",
+        "content": "A vulture goddess, the tutelary deity of Upper Egypt",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "390",
+        "title": "Nephthys (Egyptian: Nebet-Het)",
+        "content": "goddess of rivers, death, mourning, the dead, and night. A member of the Ennead, the consort of Set, who mourned Osiris alongside Isis",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "391",
+        "title": "Nepit",
+        "content": "A goddess of grain, female counterpart of Neper",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "392",
+        "title": "Nut",
+        "content": "A sky goddess, a member of the Ennead",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "393",
+        "title": "Pakhet",
+        "content": "A lioness goddess mainly worshipped in the area around Beni Hasan",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "394",
+        "title": "Renenutet",
+        "content": "An agricultural goddess",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "395",
+        "title": "Satet",
+        "content": "A goddess of Egypt's southern frontier regions",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "396",
+        "title": "Sekhmet",
+        "content": "A lioness goddess, both destructive and violent and capable of warding off disease, protector of the pharaohs who led them in war, the consort of Ptah and one of many forms of the Eye of Ra.",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "397",
+        "title": "Tefnut",
+        "content": "Lioness goddess of moisture, water, fertility and a member of the Ennead",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "398",
+        "title": "Wadjet (Uatchit)",
+        "content": "A cobra goddess, the tutelary deity of Lower Egypt",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "399",
+        "title": "Wosret (Egyptian: Usret)",
+        "content": "A goddess of Thebes",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "400",
+        "title": "Anubis/Anput",
+        "content": "The god/goddess of funerals, embalming and protector of the dead",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "401",
+        "title": "Hapi",
+        "content": "Personification of the Nile flood",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "402",
+        "title": "Heh",
+        "content": "Personification of infinity and a member of the Ogdoad",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "403",
+        "title": "Kek",
+        "content": "The god of Chaos and Darkness, as well as being the concept of primordial darkness. Kek's female form is known as Kauket.",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "404",
+        "title": "Nu (Nun)",
+        "content": "Personification of the formless, watery disorder from which the world emerged at creation and a member of the Ogdoad",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "406",
+        "title": "Tatenen",
+        "content": "Personification of the first mound of earth to emerge from chaos in ancient Egyptian creation myths",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "407",
+        "title": "Aker",
+        "content": "A god of earth and the horizon",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "408",
+        "title": "Amun",
+        "content": "A creator god, patron deity of the city of Thebes, and the preeminent deity in Egypt during the New Kingdom",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "409",
+        "title": "Anhur",
+        "content": "A god of war and hunting",
+        "category": "Egyptian mythology"
+    },
+    {
+        "id": "410",
+        "title": "Tezcatlipoca",
+        "content": "creator god, lord of darkness, lord of the night, god of battles, and the lord of the North. Tezcatlipoca is also known as the \"Smoking Mirror\". Tezcatlipoca is the old arch-nemesis of Quetzalcoatl. (Black Tezcatlipoca)",
+        "category": "Aztec mythology"
+    },
+    {
+        "id": "411",
+        "title": "Quetzalcoatl",
+        "content": "god of the life, the light and wisdom, lord of the winds and the day, and the lord of the West. Quetzalcoatl is the old arch-nemesis of Tezcatlipoca. Sometimes, Quetzalcoatl was the ruler of the East like Xipe-Totec.",
+        "category": "Aztec mythology"
+    },
+    {
+        "id": "412",
+        "title": "Xipe-Totec",
+        "content": "god of agriculture, fertility, seasons, metalsmiths, and disease, and the lord of the East. Xipe-Totec, once again, was the lord of the East, and Quetzalcoatl was the ruler of the West, but sometimes, they were the other way round and Xipe-Totec was the lord of the West. (Red Tezcatlipoca)",
+        "category": "Aztec mythology"
+    },
+    {
+        "id": "413",
+        "title": "Huitzilopochtli",
+        "content": "god of war, sun, human sacrifice, bloodletting, and the lord of the South. (Blue Tezcatlipoca)",
+        "category": "Aztec mythology"
+    },
+    {
+        "id": "414",
+        "title": "Painal",
+        "content": "god of battles and Huitzilopochtli's messenger.",
+        "category": "Aztec mythology"
+    },
+    {
+        "id": "415",
+        "title": "Tlacahuepan",
+        "content": "god of war in Toltec and Huitzilopochtli's brother.",
+        "category": "Aztec mythology"
+    },
+    {
+        "id": "416",
+        "title": "Tepeyollotl",
+        "content": "god of the animals, darkened caves, echoes, and earthquakes. Tepeyollotl is a variant of Tezcatlipoca and is associated with mountains.",
+        "category": "Aztec mythology"
+    },
+    {
+        "id": "417",
+        "title": "Itzcaque",
+        "content": "god who represents Tezcatlipoca in his capacity of starting wars for his own amusement.",
+        "category": "Aztec mythology"
+    },
+    {
+        "id": "418",
+        "title": "Chalchiutotolin",
+        "content": "god of illness, disorder, and chaos. Chalchiutotolin absolves humans of guilt and overcomes their fate. He is also a variant of Tezcatlipoca.",
+        "category": "Aztec mythology"
+    },
+    {
+        "id": "419",
+        "title": "Ixquitecatl",
+        "content": "god of sorcerers. Ixquitecatl is a possible variant of Tezcatlipoca.",
+        "category": "Aztec mythology"
+    },
+    {
+        "id": "420",
+        "title": "Itztlacoliuhqui-Ixquimilli",
+        "content": "god of frost, ice, cold, winter, and punishment. Itztlacoliuhqui-Ixquimilli is also the god of objectivity and blindfolded justice. Itztlacoliuhqui-Ixquimilli is a variant of Tezcatlipoca and is associated with the night and the north.",
+        "category": "Aztec mythology"
+    },
+    {
+        "id": "421",
+        "title": "Macuiltotec",
+        "content": "god of arsenal. Macuiltotec is mainly associated with weaponry and the rites of warfare. Macuiltotec is a possible variant of Tezcatlipoca.",
+        "category": "Aztec mythology"
+    },
+    {
+        "id": "422",
+        "title": "Itztli",
+        "content": "god of stone and sacrifice. Itztli is a variant of Tezcatlipoca and shares his qualities with Itztlacoliuhqui-Ixquimilli.",
+        "category": "Aztec mythology"
+    },
+    {
+        "id": "423",
+        "title": "Baldr",
+        "content": "God of light and radiance, he is the most beloved of the gods. He is the son of Odin and Frigg and younger brother of Thor.",
+        "category": "Norse mythology"
+    },
+    {
+        "id": "424",
+        "title": "Frigg",
+        "content": "Wife of Odin and goddess of marriageas, prophecy, clairvoyance and motherhood. Dwells in the wetland halls of Fensalir. She rules Asgard as queen alongside the All-Father.",
+        "category": "Norse mythology"
+    },
+    {
+        "id": "425",
+        "title": "Heimdallr",
+        "content": "Known as the All-Seeing, he is the guardian of the rainbow bridge Bifr\u00f6st.",
+        "category": "Norse mythology"
+    },
+    {
+        "id": "426",
+        "title": "H\u00f6\u00f0r",
+        "content": "God of winter and darkness; a blind god, he is the son of Odin and Frigg.",
+        "category": "Norse mythology"
+    },
+    {
+        "id": "427",
+        "title": "I\u00f0unn",
+        "content": "Goddess of youth, she was keeper of the apples that grant the gods their phenomenal longevity and youth.",
+        "category": "Norse mythology"
+    },
+    {
+        "id": "428",
+        "title": "Loki",
+        "content": "Though oftentimes referred to as the god of trickery and mischief, Loki is not counted among the \u00c6sir. The son of the (female) j\u00f6tunn Laufey and F\u00e1rbauti (Old Norse: \u201ccruel striker\u201d), he is Odin\u2019s blood brother. The name has at times been associated with the Old Norse word logi ('flame'/ 'fire' ). Germanic root *luk-, which denoted things to do with loops (like knots, hooks, closed-off rooms, and locks). Anna Birgitta Rooth concluded that Loki was originally a spider.",
+        "category": "Norse mythology"
+    },
+    {
+        "id": "429",
+        "title": "Odin",
+        "content": "God of wisdom, poetry and war, he is chief of the \u00c6sir and ruler of Asgard.",
+        "category": "Norse mythology"
+    },
+    {
+        "id": "430",
+        "title": "Sif",
+        "content": "Goddess of agriculture and fertility, she is the beloved wife of Thor, known across the Nine Worlds for her golden hair, which was sheared by Loki.",
+        "category": "Norse mythology"
+    },
+    {
+        "id": "431",
+        "title": "Thor",
+        "content": "God of thunder and lightning, he is Asgard's greatest champion. He is the eldest son of Odin, born to him by J\u00f6r\u00f0, the personification of the Earth.",
+        "category": "Norse mythology"
+    },
+    {
+        "id": "432",
+        "title": "T\u00fdr",
+        "content": "God of law and heroic glory, he is one-handed. Either the son of Odin or the j\u01ebtnar Hymir and Hro\u00f0r (Old Norse: \u201cfamed\u201d).",
+        "category": "Norse mythology"
+    },
+    {
+        "id": "433",
+        "title": "Ullr",
+        "content": "God of the hunt and archery, he is the son of Sif and Thor's stepson.",
+        "category": "Norse mythology"
+    },
+    {
+        "id": "434",
+        "title": "Vi\u00f0arr",
+        "content": "God of vengeance, he is the son of Odin and the female j\u00f6tunn Gr\u00ed\u00f0r.",
+        "category": "Norse mythology"
+    },
+    {
+        "id": "435",
+        "title": "An",
+        "content": "An (in Sumerian), later known as Anu (in Akkadian), was the supreme God and \"prime mover in creation\", embodied by the sky. He is the first and most distant ancestor, theologically conceived as the God of Heaven in its \"transcendental obscurity\". In some theological systems all of the deities were believed to be the offspring of An and his consort Ki. However Anu was himself described as the descendant of various primordial beings in various texts, and Enlil was often equipped with his own elaborate family tree separate from Anu's. While An was described as the utmost god, at least by the time of the earliest written records the main god in terms of actual cult was Enlil. Anu's supremacy was therefore \"always somewhat nominal\" according to Wilfred G. Lambert. Luludanitu, a multicolored stone (red, white and black) was associated with him.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "436",
+        "title": "Enlil",
+        "content": "later known as Ellil, is the god of wind, air, earth, and storms and the chief of all the gods. The Sumerians envisioned Enlil as a benevolent, fatherly deity, who watches over humanity and cares for their well-being. His cult was closely tied to the holy city of Nippur and, after Nippur was sacked by the Elamites in 1230 BC, his cult fell into decline. He was eventually paralleled in his role as chief deity by Marduk, the national god of the Babylonians, and Assur, who fulfilled an analogous role for the Assyrians. He was associated with lapis lazuli.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "437",
+        "title": "Enki",
+        "content": "later known as Ea, and also occasionally referred to as Nudimmud or Nin\u0161iku, was the god of the subterranean freshwater ocean, who was also closely associated with wisdom, magic, incantations, arts, and crafts. He was either the son of An, or the goddess Nammu, and is the former case the twin brother of Ishkur. His wife was the goddess Damgalnuna (Ninhursag) and his children include the gods Marduk, Asarluhi, Enbilulu, the sage Adapa, and the goddess Nanshe. His sukkal, or minister, was the two-faced messenger god Isimud.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "438",
+        "title": "Marduk",
+        "content": "national god of the Babylonians. The expansion of his cult closely paralleled the historical rise of Babylon and, after assimilating various local deities, including a god named Asarluhi, he eventually came to parallel Enlil as the chief of the gods. Some late sources go as far as omitting Enlil and Anu altogether, and state that Ea received his position from Marduk. His wife was the goddess Sarp\u0101n\u012btu. God associated with water, vegetation, judgment, and magic.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "439",
+        "title": "Ashur",
+        "content": "national god of the Assyrians. It has been proposed that originally he was the deification of the city of Assur, or perhaps the hill atop which it was built. He initially lacked any connections to other deities, having no parents, spouse or children. The only goddess related to him, though in an unclear way, was \u0160erua. Later he was syncretized with Enlil, and as a result Ninlil was sometimes regarded as his wife, and Ninurta and Zababa as his sons.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "440",
+        "title": "Nabu",
+        "content": "Mesopotamian god of scribes and writing. His wife was the goddess Tashmetu and he may have been associated with the planet Mercury, though the evidence has been described as \u201ccircumstantial\u201d by Francesco Pomponio. He later became associated with wisdom and agriculture. In the Old Babylonian and early Kassite periods his cult was only popular in central Mesopotamia and had a limited extent in peripheral areas. In the first millennium BCE he became one of the most prominent gods of Babylonia.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "441",
+        "title": "Nanna",
+        "content": "Enzu or Zuen (\"Lord of Wisdom\") in Sumerian, later altered as Suen and Sin in Akkadian, is the ancient Mesopotamian god of the Moon. He was the son of Enlil and Ninlil and one of his most prominent myths was an account of how he was conceived and how he made his way from the Underworld to Nippur. A theological system where Nanna, rather than Enlil, was the king of gods, is known from a text from the Old Babylonian period; in the preserved fragment Enlil, Anu, Enki and Ninhursag served as his advisers, alongside his children Utu and Inanna.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "442",
+        "title": "Utu",
+        "content": "Shamash\tRepresentation of Shamash from the Tablet of Shamash (c. 888 \u2013 855 BC), showing him sitting on his throne dispensing justice while clutching a rod-and-ring symbol\tE-Babbar temples at Sippar and Larsa\tSun\tUtu, later known as Shamash, is the ancient Mesopotamian god of the Sun, who was also revered as the god of truth, justice, and morality. He was the son of Nanna and the twin brother of Inanna. Utu was believed to see all things that happen during the day and to aid mortals in distress. Alongside Inanna, Utu was the enforcer of divine justice.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "443",
+        "title": "Inanna",
+        "content": "Ishtar\tBabylonian terracotta relief of Ishtar from Eshnunna (early second millennium BC)\tEanna temple in Uruk, though she also had temples in Nippur, Lagash, Shuruppak, Zabalam, and Ur\tVenus\tInanna, later known as Ishtar, is \"the most important female deity of ancient Mesopotamia at all periods.\" She was the Sumerian goddess of love, sexuality, prostitution, and war. She was the divine personification of the planet Venus, the morning and evening star. Accounts of her parentage vary; in most myths, she is usually presented as the daughter of Nanna and Ningal, but, in other stories, she is the daughter of Enki or An along with an unknown mother. The Sumerians had more myths about her than any other deity. Many of the myths involving her revolve around her attempts to usurp control of the other deities' domains. Her most famous myth is the story of her descent into the Underworld, in which she attempts to conquer the Underworld, the domain of her older sister Ereshkigal, but is instead struck dead by the seven judges of the Underworld. She is only revived due to Enki's intervention and her husband Dumuzid is forced to take her place in the Underworld. Alongside her twin brother Utu, Inanna was the enforcer of divine justice.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "444",
+        "title": "Ninhursag",
+        "content": "Damgalnuna, Ninmah\tAkkadian cylinder seal impression depicting a vegetation goddess, possibly Ninhursag, sitting on a throne surrounded by worshippers (circa 2350\u20132150 BC)\tE-Mah temple in Adab, Kesh\t\tNinhursag (\"Mistress of the mountain ranges\"), also known as Damgalnuna, Ninmah, Nintur and Aruru, was the Mesopotamian mother goddess. Her primary functions were related to birth (but generally not to nursing and raising children, with the exception of sources from early Lagash) and creation. Descriptions of her as \"mother\" weren't always referring to motherhood in the literal sense or to parentage of other deities, but sometimes instead represented her esteem and authority as a senior deity, similar to references to major male deities such as Enlil or Anu as \"fathers.\" Certain mortal rulers claimed her as their mother, a phenomenon recorded as early as during the reign of Mesilim of Kish (c. 2700 BCE). She was the wife of Enki, though in some locations (including Nippur) her husband was \u0160ulpae instead. Initially no city had Ninhursag as its tutelary goddess. Later her main temple was the E-Mah in Adab, originally dedicated to a minor male deity, A\u0161gi. She was also associated with the city of Kesh, where she replaced the local goddess Nintur, and she was sometimes referred to as the \"B\u0113let-il\u012b of Kesh\" or \"she of Kesh\". It is possible her emblem was a symbol similar to later Greek letter omega.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "445",
+        "title": "Ninurta",
+        "content": "Nin\u011d\u00edrsu\tNinurta shown in a palace relief from Nineveh\tE-\u0161u-me-\u0161a temple in Nippur, Girsu, Lagash, and later Kalhu in Assyria\tSaturn\tNinurta, also known as Ningirsu, was a Mesopotamian warrior deity who was worshipped in Sumer from the very earliest times. He was the champion of the gods against the Anz\u00fb bird after it stole the Tablet of Destinies from his father Enlil and, in a myth that is alluded to in many works but never fully preserved, he killed a group of warriors known as the \"Slain Heroes\". Ninurta was also an agricultural deity and the patron god of farmers. In the epic poem Lugal-e, he slays the demon Asag and uses stones to build the Tigris and Euphrates rivers to make them useful for irrigation. His major symbols were a perched bird and a plow.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "446",
+        "title": "Nergal",
+        "content": "\tAncient Parthian carving of the god Nergal from Hatra, dating to the first or second century AD\tE-Meslam temple in Kutha and Mashkan-shapir\tMars\tNergal was associated with the Underworld and is usually the husband of Ereshkigal. He was also associated with forest fires (and identified with the fire-god, Gibil), fevers, plagues, and war. In myths, he causes destruction and devastation. In the neo-Babylonian period in many official documents Nergal is listed immediately after the supreme gods Marduk and Nabu, and before such prominent deities as Shamash and Sin.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "447",
+        "title": "Dumuzid",
+        "content": "Tammuz\tAncient Sumerian cylinder seal impression showing Dumuzid being tortured in the Underworld by the galla demons\tBad-tibira and Kuara\t\tDumuzid, later known by the corrupted form Tammuz, is the ancient Mesopotamian god of shepherds and the primary consort of the goddess Inanna. His sister is the goddess Geshtinanna. In addition to being the god of shepherds, Dumuzid was also an agricultural deity associated with the growth of plants. Ancient Near Eastern peoples associated Dumuzid with the springtime, when the land was fertile and abundant, but, during the summer months, when the land was dry and barren, it was thought that Dumuzid had \"died\". During the month of Dumuzid, which fell in the middle of summer, people all across Sumer would mourn over his death. An enormous number of popular stories circulated throughout the Near East surrounding his death.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "448",
+        "title": "Ereshkigal",
+        "content": "\tThe \"Burney Relief,\" which is believed to represent either Ereshkigal or her younger sister Ishtar (c. 19th or 18th century BC)\tKutha\tHydra\tEreshkigal was the queen of the Mesopotamian Underworld. She lived in a palace known as Ganzir. In early accounts, her husband is Gugalanna, whose character is undefined, but later the northern god Nergal was placed in this role. Her gatekeeper was the god Neti and her sukkal was Namtar. In the poem Inanna's Descent into the Underworld, Ereshkigal is described as Inanna's \"older sister\". In the god list An = Anum she opens the section dedicated to underworld deities.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "449",
+        "title": "Gula",
+        "content": "and Ninisina, Nintinugga, Ninkarrak. Temples: E-gal-mah temple in Isin and other temples in Nippur, Borsippa, Assur, Sippar, Umma. A prominent place in the Mesopotamian pantheon was occupied by healing goddesses, regarded as divine patronesses of doctors and medicine-workers. Multiple such deities existed: Nintinugga, \"mistress who revives the dead,\" worshiped in Ninlil's temple in Nippur. Ninisina, who in addition to her primary role was also the goddess of Isin. Ninkarrak, most likely of Akkadian, rather than Sumerian, origin, worshiped in Sippar. Gula (\"the great\"), from Umma; possibly initially a title rather than a distinct goddess. Eventually Gula became the preeminent healing goddess, and other healing goddesses were sometimes syncretised with her, though in the god list An = Anum Gula, Ninkarrak and Nintinugga all figure as separate deities with own courts. Dogs were associated with many healing goddesses and Gula in particular is often shown in art with a dog sitting beside her.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "450",
+        "title": "Bau",
+        "content": "Temples: Lagash, Kish. Bau was a prominent goddess of Lagash, and some of its kings regarded her as their divine mother. She was also a healing goddess, though unlike other healing goddesses she only developed such a function at some point in her history. She was the wife of Ningirsu, and rose to prominence in third millennium BCE in the state of Lagash. Gudea elevated Bau's rank to equal of that of Ningirsu, and called her \"Queen who decides the destiny in Girsu.\" This made her the highest ranking goddess of the local pantheon of Lagash, putting her above Nanshe. During the reign of the Third Dynasty of Ur, she was the second most notable \"divine wife\" after Ninlil, with some sources (ex. from Nippur) indicating she was exalted above Ningirsu. While the original Lagashite cult of Bau declined alongside the city, she continued to be prominent in Kish in northern Babylonia, where she arrived in the Old Babylonian period. The city god of Kish, Zababa, became her husband. She remained a major goddess of that city as late as the neo-Babylonian period.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "451",
+        "title": "Ishkur",
+        "content": "Adad, Hadad. Temples: Karkar, Assur, Kurba'il. Ishkur, later known as Adad or Hadad (from the root *hdd, \"to thunder\"), was the Mesopotamian god of storms and rain. In northern Mesopotamia, where agriculture relied heavily on rainfall, he was among the most prominent deities, and even in the south he ranked among the \"great gods.\" In god lists his position is similar to that of Sin, Shamash and Ishtar. Ishkur is already attested as the god of Karkar in the Uruk period, however evidence such as theophoric names indicates that the weather god's popularity only grew in later periods under the Akkadian name. Hadad is already attested as the name of the weather god in early sources from Ebla. In Mesopotamia these two gods started to merge in the Sargonic period, and it seems it was already impossible to find a clear distinction between them in the Ur III period. While northern texts put an emphasis on the benevolent character of the weather god as a bringer of rain, in the south he was often associated with destructive weather phenomena, including dust storms, though even there he was credited with making plant growth possible in areas which weren't irrigated. He was regarded as the son of An, though less commonly he was also referred to as a son of Enlil. His wife was Shala, while his sukkal was Nimgir, the deified lightning. In addition to being a weather god, Hadad was also a god of law and guardian of oaths, as well as a god of divination (extispicy). In these roles he was associated with Shamash. In Zabban, a city in the northeast of Babylonia, he was regarded as the head of the local pantheon. In Assyrian sources he was closely connected to military campaigns of the kings. Kurba'il on the northern frontier of the empire was regarded as his most notable cult center in neo-Assyrian times. In god lists foreign weather gods such as Hurrian Teshub (\"Adad of Subartu\"), Kassite Buriya\u0161 or Ugaritic Baal were regarded as his equivalents.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "452",
+        "title": "I\u0161taran",
+        "category": "Mesopotamian mythology",
+        "content": "I\u0161taran was a prominent god, who served as the tutelary deity of the Sumerian city-state of Der, which was located east of the Tigris river on the border between Mesopotamia and Elam. His wife was the goddess \u0160arrat-D\u0113ri, whose name means \"Queen of Der\", or alternatively Manzat (goddess of the rainbow), and his sukkal was the snake-god Nirah. He was regarded as a divine judge, and kings were said to \"render justice like I\u0161taran.\" A text from the late Early Dynastic Period invokes I\u0161taran to resolve a boundary dispute between the cities of Lagash and Umma. In one of his inscriptions, King Gudea of Lagash mentions himself having installed a shrine for I\u0161taran in the temple of Ningirsu at Girsu and describes I\u0161taran as a god of justice. On kudurrus (boundary stones), I\u0161taran is often represented by a serpent, which may be Nirah or I\u0161taran himself. It is also possible that he's the god with an ophidian lower body known from cylinder seals. In a ritual associated with the Ekur temple in Nippur, I\u0161taran is a \"dying god\" and is equated with Dumuzid. A reference to I\u0161taran as a dying god appears also in a late text from Assur. His national cult fell into decline during the Middle Babylonian Period, though he still appeared in documents such as neo-Assyrian land grants. However, in Der he continued to be venerated in later periods as well."
+    },
+    {
+        "id": "453",
+        "title": "Nanaya",
+        "category": "Mesopotamian mythology",
+        "content": "Nanaya was a goddess of love (including erotic love and lust). She was commonly invoked in spells connected to this sphere. Her worship was widespread, and she appears frequently in the textual record. She was also involved in intercession and was regarded as \"lady of lamma,\" a class of minor protective goddesses capable of interceding on behalf of humans. She shared these roles with Ninshubur. She was closely associated with Inanna/Ishtar, though not identical to her as the two often appear side by side in the same texts: for example in Larsa Inanna, Nanaya and Ninsianna all functioned as distinct deities, while in god lists Nanaya appears among Inanna's courtiers, usually following Dumuzi and Ninshubur. In late sources Nanaya and Ishtar sometimes appear as goddesses of equal status. In neo-Babylonian Uruk she was one of the most important deities, and retained this status under Persian rule as well. There is also evidence for her worship continuing in Seleucid and Parthian times, as late as 45 CE."
+    },
+    {
+        "id": "454",
+        "title": "Nanshe",
+        "category": "Mesopotamian mythology",
+        "content": "Nanshe was a goddess associated with the state of Lagash, whose cult declined with the loss of political relevance of that city. She was a daughter of Enki and sister of Ningirsu. She was associated with divination and the interpretation of dreams, but was also believed to assist the poor and the impoverished and ensure the accuracy of weights and measurements. She was also associated with fish, fishing, waterfowl, justice, prophecy and fertility. The First Sealand dynasty revived (or continued) her cult, making her the royal tutelary goddess."
+    },
+    {
+        "id": "455",
+        "title": "Ninazu",
+        "category": "Mesopotamian mythology",
+        "content": "Ninazu was a god regarded as either the son of Ereshkigal or of Enlil and Ninil. He was also the father of Ningishzida. He was closely associated with the Underworld, and some researchers go as far as proposing he was the oldest Mesopotamian god associated with it, though it is most likely more accurate to say that there was initially no single universally agreed upon version of relevant mythical and cultic concepts, with various deities, both male and female, ruling over the Underworld in the belief systems of various areas and time periods. Ninazu was also a Ninurta-like warrior god, as well as the \"king of snakes.\" He was worshipped in Eshnunna during the third millennium BCE, but he was later supplanted there by Tishpak, who despite foreign origin had a similar character and attributes. Ninazu was also worshipped at Enegi in southern Sumer. His divine beast was the mu\u0161\u1e2bu\u0161\u0161u, a serpentine dragon-like mythical creature, which was later also associated with Tishpak, Marduk (and by extension Nabu) and after Sennacherib's destruction of Babylon also with Ashur."
+    },
+    {
+        "id": "456",
+        "title": "Ninlil",
+        "content": "Ninlil was the wife of Enlil, the ruler of the gods. She was not associated with any city of her own, serving primarily as Enlil's spouse, and as such was probably an artificially created deity, invented as a female equivalent to Enlil. She was nonetheless regarded as having power on par with Enlil; in one poem, Ninlil declares, \"As Enlil is your master, so am I also your mistress!\" In documents from the Ur III period, Ninlil was believed to be able to determine fates much like husband, and the pair was jointly regarded as the source of royal power by kings. Sud, the tutelary goddess of \u0160uruppak, came to be regarded as one and the same as Ninlil, and the myth Enlil and Sud explain that Sud was the goddess' name before she married Enlil, receiving the name Ninlil. However, Sud was originally an independent deity who was close in character to Sudag, an alternate name of the wife of Shamash; the confusion between Sudag and Sud(/Ninlil) is reflected in a myth where Ishum, normally regarded as the son of Shamash and his wife, is instead the son of Ninlil.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "457",
+        "title": "Ninshubur",
+        "content": "Assyriologists regard Ninshubur as the most commonly worshiped sukkal(\"vizier\"), a type of deity serving as another's personal attendant. Her mistress was Inanna. Many texts indicate they were regarded very close to each other, with one going as far as listing Ninshubur with the title \"beloved vizier,\" before Inanna's relatives other than her husband Dumuzi. She consistently appears as the first among Inanna's courtiers in god lists, usually following Dumuzi and Ninshubur. She was portrayed as capable of \"appeasing\" Inanna, and as \"unshakably loyal\" in her devotion to her. In the Sumerian myth of Inanna and Enki, Ninshubur rescues Inanna from the monsters that Enki sends to capture her, while in Inanna's Descent into the Underworld, she pleads with the gods Enlil, Nanna and finally Enki in effort to persuade them to rescue Inanna from the Underworld. She was regarded as a wise adviser of her divine masters and human rulers alike. In addition to being the sukkal of Inanna, she also served An and the divine assembly. In later Akkadian mythology, Ninshubur was syncretized with the male messenger deities Ilabrat and Papsukkal, though this process wasn't complete until Seleucid times. Ninshubur was popular in the sphere of personal religion, for example as tutelary deity of a specific family, due to the belief she could mediate between humans and higher ranking gods.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "458",
+        "title": "Nisaba",
+        "content": "Nisaba was originally a goddess of grain and agriculture, but, starting in the Early Dynastic Period, she developed into a goddess of writing, accounting, and scribal knowledge. Her main cult city, Eresh, was evidently prominent in early periods, but after the reign of Shulgi almost entirely disappeared from records. Texts mentioning Nisaba are sporadically attested as far west as Ebla and Ugarit, though it is uncertain if she was actively venerated further west than Mari. Nisaba was the mother of the goddess Sud, syncretised with Enlil's wife Ninlil, and as a result she was regarded as his mother in law. While a less common tradition identified her as the daughter of Enlil, she was usually regarded as the daughter of Ura\u0161, and references to Anu or Ea as her father are known from first millennium BCE literature. Her husband was the god Haya. There is little direct evidence for temples (in Nippur she was worshiped in the temple of her daughter Ninlil) and clergy of Nisaba, but literary texts were commonly ended with the doxology \"praise to Nisaba!\" or other invocations of her. The term \"house of wisdom of Nisaba\" attested in many texts was likely a generic term for institutions connected to writing. Her importance started to decline (especially outside the scribal circles) after the Old Babylonian period, though attestations as late as from the reign of Nabopolassar are known.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "459",
+        "title": "Zababa",
+        "content": "Zababa was a war god who served as the tutelary deity of Kish. His main temple was E-mete-ursag. The earliest attestation of him comes from the Early Dynastic Period. During the reign of Old Babylonian kings such as Hammurabi it was Zababa, rather than Ninurta, who was regarded as the primary war god. He was initially regarded as a son of Enlil, but Sennacherib called him a son of Ashur instead. Initially his wife was Ishtar of Kish (regarded as separate from Ishtar of Uruk), but after the Old Babylonian period she was replaced by Bau in this role, and continued to be worshiped independently from him. In some texts Zababa uses weapons usually associated with Ninurta and fights his mythical enemies, and on occasion he was called the \"Nergal of Kish,\" but all 3 of these gods were regarded as separate. In one list of deities he is called \"Marduk of battle.\" His primary symbol was a staff with the head of an eagle. His sukkal was Papsukkal.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "460",
+        "title": "Abzu",
+        "content": "In the Babylonian creation epic, the En\u00fbma Eli\u0161, Abzu is primordial undeterminacy, the consort of the goddess Tiamat who was killed by the god Ea (Enki). Abzu was the personification of the subterranean primeval waters. God of fresh water, father of all other gods.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "461",
+        "title": "Alala and Belili",
+        "content": "Alala and Belili were ancestors of Anu, usually appearing as the final pair in god lists accepting this tradition of his ancestry. Alala was also adopted into Hurro-Hittite mythology under the name Alalu. It is possible Alala and Belili were paired together only because both names are iterative. The name Belili could also refer to a goddess regarded as a sister of Dumuzi. It has been argued that she was one and the same as the primordial deity, but this view is not universally accepted and Manfred Krebernik argues it cannot be presently established if they were one and the same.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "462",
+        "title": "Anshar and Kishar",
+        "content": "In some myths and god lists, Anshar and Kishar are a primordial couple, who are male and female respectively. In the Babylonian En\u00fbma Eli\u0161, they are the second pair of offspring born from Abzu and Tiamat and the parents of the supreme An. A partial rewrite of En\u00fbma Eli\u0161 from the neo-Assyrian period attempted to merge the roles of Marduk and Anshar, which Wilfred G. Lambert described as \"completely superficial in that it leaves the plot in chaos by attributing Marduk's part to his great-grandfather, without making any attempt to iron out the resulting confusion.\" In other late sources Anshar was sometimes listed among \"conquered\" mythical antagonists. In a fragmentary text from Seleucid or Parthian times he is seemingly vanquished by Enki and an otherwise little known goddess Ninamakalla.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "463",
+        "title": "D\u016bri and D\u0101ri",
+        "content": "D\u016bri and D\u0101ri (derived from an Akkadian phrase meaning \"forever and ever\") were ancestors of Anu according to the so-called \"Anu theogony.\" They represented \"eternal time as a prime force in creation,\" and it is likely they developed as a personified form of a preexisting cosmological belief. A single text identifies them as ancestors of Enlil instead. They appear for the first time in an incantation from the reign of Samsu-iluna (Old Babylonian period).",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "464",
+        "title": "Enki and Ninki",
+        "content": "Enki and Ninki were two primordial beings who were regarded as the first generation among the ancestors of Enlil. Enki and Ninki followed by a varying number of pairs of deities whose names start with \"En\" and \"Nin\" appear as Enlil's ancestors in various sources: god lists, incantations, liturgical texts, and the Sumerian composition \"Death of Gilgamesh,\" where the eponymous hero encounters these divine ancestors in the underworld. The oldest document preserving this tradition is the Fara god list (Early Dynastic period). Sometimes all the ancestors were collectively called \"the Enkis and the Ninkis.\" Enki, the ancestor of Enlil, is not to be confused with the god Enki/Ea, who is a distinct and unrelated figure. The ancestral Enki's name means \"lord earth,\" while the meaning of the name of the god of Eridu is uncertain but not the same, as indicated by some writings including an amissable g.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "465",
+        "title": "Enmesharra",
+        "content": "Enmesharra was a minor deity of the underworld. Seven, eight or fifteen other minor deities were said to be his offspring. His symbol was the su\u0161\u0161uru (a kind of pigeon). He was sometimes regarded as the father of Enlil, or as his uncle. Texts allude to combat between Enmesharra and Enlil (or perhaps Ninurta), and his subsequent imprisonment. In some traditions it was believed that this is how Enlil gained control over destinies. In a late myth he was described as an enemy of Marduk.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "471",
+        "title": "Lugaldukuga",
+        "content": "Lugaldukuga was the father of Enlil in some traditions, though sometimes he was instead referred to as his grandfather. Like Enmesharra he was regarded as a vanquished theogonic figure, and sometimes the two were equated. He might be analogous to Endukuga, another ancestor of Enlil from god lists.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "472",
+        "title": "Nammu",
+        "content": "Nammu is the primordial goddess who, in some Sumerian traditions, was said to have given birth to both An and Ki. She eventually came to be regarded as the mother of Enki and was revered as an important mother goddess. Because the cuneiform sign used to write her name is the same as the sign for engur, a synonym for abzu, it is highly probable that she was originally conceived as the personification of the subterranean primeval waters or sea.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "473",
+        "title": "Supreme Being",
+        "content": "Supreme Being: referred to as Mayo, in one account; probably regarded as remote as fear and meticulous ritual care are often related instead towards the A\u00f1itu",
+        "category": "Philippine mythology"
+    },
+    {
+        "id": "474",
+        "title": "Mayo",
+        "content": "Mayo: a fisherfolk hero who introduced the yuyus used to catch flying fishes called dibang, which are in turn used to catch the summertime fish arayu",
+        "category": "Philippine mythology"
+    },
+    {
+        "id": "475",
+        "title": "The Giver",
+        "content": "The Giver: the entity who provides all things; the souls of the upper class travel to the beings's abode in heaven and become stars",
+        "category": "Philippine mythology"
+    },
+    {
+        "id": "476",
+        "title": "A\u00f1itu",
+        "content": "A\u00f1itu: refers to the souls of the dead, place spirits, and wandering invisibles not identified nor tied down to any particular locale or thing",
+        "category": "Philippine mythology"
+    },
+    {
+        "id": "477",
+        "title": "A\u00f1itu between Chavidug and Chavayan",
+        "content": "A\u00f1itu between Chavidug and Chavayan: place spirit A\u00f1itus who were reported to create sounds when the gorge between Chavidug and Chavayan were being created through dynamite explosions; believed to have shifted their residences after the construction of the passage",
+        "category": "Philippine mythology"
+    },
+    {
+        "id": "478",
+        "title": "Rirryaw A\u00f1itu",
+        "content": "Rirryaw A\u00f1itu: place spirit A\u00f1itus who played music and sang inside a cave in Sabtang, while lighting up fire; believed to have change residences after they were disturbed by a man",
+        "category": "Philippine mythology"
+    },
+    {
+        "id": "479",
+        "title": "ji Rahet A\u00f1itu",
+        "content": "ji Rahet A\u00f1itu: a grinning place spirit A\u00f1itu who lived in an old tree; a man later cut the tree and found an earthen pot believed to have been owned by the A\u00f1itu",
+        "category": "Philippine mythology"
+    },
+    {
+        "id": "480",
+        "title": "Nuvwan A\u00f1itu",
+        "content": "Nuvwan A\u00f1itu: good place spirit A\u00f1itus who saved a woman from a falling tree; they are offered rituals through the vivyayin",
+        "category": "Philippine mythology"
+    },
+    {
+        "id": "481",
+        "title": "ji P'Supwan A\u00f1itu",
+        "content": "ji P'Supwan A\u00f1itu: good place spirit A\u00f1itus who became friends and allies of a mortal woman named Carmen Acido; sometimes taking in the form of dogs, they aided her and guided her in many of her tasks until her death from old age; despite their kindness towards Carmen, most people avoided the farm where they live",
+        "category": "Philippine mythology"
+    },
+    {
+        "id": "482",
+        "title": "Mayavusay A\u00f1itu",
+        "content": "Mayavusay A\u00f1itu: place spirit A\u00f1itus living in a parcel of land in Mayavusay; sometimes take in the form of piglets, and can return cut vegetation parts into the mother vegetation",
+        "category": "Philippine mythology"
+    },
+    {
+        "id": "483",
+        "title": "Cairn-dwelling A\u00f1itu",
+        "content": "Cairn-dwelling A\u00f1itu: place spirit A\u00f1itus who lived in cairns and put a curse towards a man who destroyed their home; appearing as humans, the shaman Balaw conversed with them to right the wrong made by the man against their home",
+        "category": "Philippine mythology"
+    },
+    {
+        "id": "484",
+        "title": "Mayuray A\u00f1itu",
+        "content": "Mayuray A\u00f1itu: a wandering A\u00f1itu who expanded and was filled with darkness; encountered by a young boy who the spirit did not harm; referred as a kapri, A\u00f1itus who walk around and grow as tall as the height for their surroundings",
+        "category": "Philippine mythology"
+    },
+    {
+        "id": "485",
+        "title": "Dayanak A\u00f1itu",
+        "content": "Dayanak A\u00f1itu: a type of very small A\u00f1itu with red eyes and gold ornaments; accepting their gold ornaments will cause misfortune",
+        "category": "Philippine mythology"
+    },
+    {
+        "id": "486",
+        "title": "Anz\u00fb",
+        "content": "Imdugud, later known as Anz\u00fb, is an enormous bird-like monster with the head of a lion described as so huge that the flapping of its wings was thought to be the cause of sandstorms and whirlwinds. Imdugud probably originated as the personification of atmospheric fog. In some descriptions, he has a \"beak like a saw\", indicating that he sometimes had the head of a bird. In Sumerian mythology, Imdugud steals the sacred mes (the clay tablets recording all the aspects of civilization) from Enki. In Akkadian mythology, he steals the Tablet of Destinies from Enlil. In both stories, the creature is challenged by Ninurta, who defeats him and returns the stolen property to its rightful owner. In the Sumerian story of Gilgamesh, Enkidu, and the Netherworld, Imdugud is one of several creatures that come to inhabit the huluppu tree planted by Inanna and is driven off by the hero Gilgamesh.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "487",
+        "title": "Ba\u0161mu",
+        "content": "Ba\u0161mu (\"venomous snake\") was a mythical horned snake who played an apotropaic role in Mesopotamian religion. While in some contexts its name can be a generic word designating any mythical snake or dragon, as early as in Gudea's inscriptions it was also understood as a specific creature. Some texts indicate that ba\u0161mu possessed forelegs. A largely analogous creature was the mu\u0161\u0161\u00e0t\u00f9r, depicted as a horned cobra.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "488",
+        "title": "Bull of Heaven",
+        "content": "The Bull of Heaven is a mythical beast that Ishtar demands from her father Anu in both the Sumerian poem Gilgamesh and the Bull of Heaven and in Tablet VI of the Standard Akkadian Epic of Gilgamesh after Gilgamesh repudiates her sexual advances. Anu gives it to her and she unleashes it on the world, causing mass destruction. Gilgamesh and Enkidu eventually slay the bull. The Bull of Heaven is identified with the constellation Taurus and the reason why Enkidu hurls the bull's thigh at Ishtar in the Epic of Gilgamesh after defeating it may be an effort to explain why the constellation seems to be missing its hind quarters.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "489",
+        "title": "Girtablullu",
+        "content": "Girtablullu were creatures with the upper body of a human (lu-ulu, \"untamed man\") and the lower body of a scorpion (gir-tab) believed to serve the sun god Utu in Sumerian mythology, and later his Akkadian counterpart Shamash. In the Epic of Gilgamesh a scorpionman and a scorpionwoman guard the gate through which the sun rises and sets each day, but it is likely this motif existed earlier independently from this myth. Unlike most other apotropaic creatures, a male girtablullu was also often accompanied by his feminine counterpart in apotropaic rituals.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "490",
+        "title": "Hanbi",
+        "content": "Hanbi is the father of the demon-god Pazuzu.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "491",
+        "title": "Humbaba",
+        "content": "Humbaba (also Huwawa, Huppipi, Hubbubu) was a monster residing in the Cedar Forest defeated by Gilgamesh and Enkidu in the Epic of Gilgamesh. Sculptures of Humbaba's head are attested in an apotropaic role from Mesopotamian temples. Humbaba was commonly referenced in omen texts, which highlighted his unusual appearance. His face was frequently compared to entrails of sacrificial animals. While connections to the minor god Humhum from northern Babylonia, to Elamite god Humban and to Combabos mentioned by Lucian of Samosata have been proposed in scholarship, they are not regarded as plausible.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "492",
+        "title": "Kilili",
+        "content": "Kilili was a demon or minor goddess who served as a messenger of Ishtar.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "493",
+        "title": "Kingaludda",
+        "content": "Kingaludda was a demon whose name means \"director of the storm.\" In the god list An = Anum he is described as ilu lemnu, \"evil god,\" and his name was written with the divine determinative. He appears in a lamentation from Ur.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "494",
+        "title": "Kulull\u00fb",
+        "content": "Kulullu (\"fish man\") was an apotropaic creature depicted a centaur-like fish-man. In one text it hads the head of a kissugu, a creature whose identity is currently unknown, rather than a human. Kulullu was described as a servant of Ea who carries a vessel from which it could pour a liquid symbolizing abundance and prosperity. In Kalhu a pair of kulullu statues (one male and one female) guarded the temple of Nabu.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "495",
+        "title": "Kusarikku",
+        "content": "Kusarikku (\"bison man\") was a creature depicted as a human-faced bison standing on its hind legs, associated with the sun god Utu. Depictions of kusarikku alongside lahmu were sometimes incorrectly interpreted as Enkidu and Gilgamesh respectively in the past.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "496",
+        "title": "Lahmu",
+        "content": "Lahmu (\"hairy one\") was a type of apotropaic creature. He was originally associated with Enki and later with Marduk. On cylinder seals Lahmu was sometimes depicted as a fisherman. In mythical texts, the god Enki/Ea is sometimes said to have 50 lahmu serving him. During the Neo-Assyrian Period (911 BC \u2013 609 BC), figurines of Lahmu, who is depicted with long hair and a long, curled beard, were placed under the foundations of houses and temples to protect against demons and pestilence. Lahmu is closely associated with the kusarikku or \"bull-man\". In the Babylonian En\u00fbma Eli\u0161, a singular Lahmu and his consort Lahamu (whose name is derived from the same root) are a primordial couple.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "497",
+        "title": "Lamashtu",
+        "content": "Lamashtu was a goddess with the \"head of a lion, the teeth of a donkey, naked breasts, a hairy body, hands stained (with blood?), long fingers and fingernails, and the feet of Anz\u00fb.\" She was believed to feed on the blood of human infants and was widely blamed as the cause of miscarriages and cot deaths. Although Lamashtu has traditionally been identified as a demoness, the fact that she could cause evil on her own without the permission of other deities strongly indicates that she was seen as a goddess in her own right. Mesopotamian peoples protected against her using amulets and talismans. She was believed to ride in her boat on the river of the Underworld and she was associated with donkeys. She was believed to be the daughter of An.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "498",
+        "title": "Mu\u0161\u1e2bu\u0161\u0161u",
+        "content": "Mu\u0161\u1e2bu\u0161\u0161u (\"furious snake\" or \"aweful snake\") was a dragon-like creature (sometimes a lion-dragon hybrid), depicted as a servant of various gods in Mesopotamian art. It was originally associated with Ninazu and, by extension, with his son Ningishzida (in Lagash); after Tishpak replaced Ninazu as the city god of Eshnunna he also started to be associated with his serpentine symbolic animals. In the Middle Babylonian period Marduk started to be associated with the mu\u0161\u1e2bu\u0161\u0161u, possibly in reflection of Hammurabi's conquest of Eshnunna; his son Nabu was later associated with it too. Marduk's association with it was in turn transferred to Ashur after Sennacherib's destruction of Babylon. The apotropaic use of its depictions was likely connected to the belief that it served as a fearless protector of its divine masters, fighting evil on their behalf.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "499",
+        "title": "Pazuzu",
+        "content": "Pazuzu is a demonic god who was well known to the Babylonians and Assyrians throughout the first millennium BC. He is shown with \"a rather canine face with abnormally bulging eyes, a scaly body, a snake-headed penis, the talons of a bird and usually wings.\" He was believed to be the son of the god Hanbi. He was a beneficent entity who protected against winds bearing pestilence and he was thought to be able to force Lamashtu back to the Underworld. Amulets bearing his image were positioned in dwellings to protect infants from Lamashtu and pregnant women frequently wore amulets with his head on them as protection from her. Ironically, Pazuzu appears in The Exorcist films as the demon that possesses the little girl.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "500",
+        "title": "Sebitti",
+        "content": "A group of 7 anthropomorphic figures variously described as servants of Nergal, as sons of Enmesharra, as gods of foreign nation (Elam, Gutium, etc.) or as astral or atmosphetic spirits serving the gods, or as a combination of some of the above. The Elamite goddess Narundi was regarded as their sister in Mesopotamia. While destructive, the Sebitti weren't necessarily regarded as evil. They played an apotropaic role, appearing for example in rituals meant to protect houses from demons. In apotropaic contexts they were described as armed with hatchets. A possibly analogous group, additionally identified with the Pleiades, is described as Inanna's \"seven-headed mace\" in one text.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "501",
+        "title": "Suhurma\u0161u",
+        "content": "Suhurma\u0161u was a creature likely imagined simply as a type of fish by the Sumerians, but as a fish-goat hybrid by the Akkadians. A Sumerian text refers to it as \"the lofty purification priest of the Apsu,\" and in apotropaic rituals it was associated with exorcisms. It was also used to symbolically represent Ea on kudurru. Unlike many other apotropaic creatures, it doesn't appear as a member of Tiamat's army defeated by Marduk in Enuma Elish, which might indicate it was viewed as more peaceful than other similar beings.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "502",
+        "title": "Ugallu",
+        "content": "Ugallu (\"big day\" or \"big weather beast\") was a class of beings in Mesopotamian mythology, attested after the Ur III period. The term ugallu could refer to multiple types of creatures, and both benevolent and malevolent character was assigned to them in various texts. Ugallu was depicted as a \"lion demon,\" with the body of a man, head of a lion and bird-like claws. This class of beings was likely viewed as enforcers of divine will. Due to their fearsome characters they were viewed as a source of protection as well, and as such appear on apotropaic amulets.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "503",
+        "title": "Uridimmu",
+        "content": "Uridimmu (\"mad dog\" or \"mad lion\") was an apotropaic creature in Mesopotamian mythology. Next to nothing is known about its history prior the Middle Babylonian period, but in texts from this era it was associated with Marduk and his wife Sarpanit, and was believed to serve as their gatekeeper. An apotropaic ritual involving a figurine of uridimmu made from cedar wood prescribes praying to Marduk and Sarpanit to bestow healing powers upon the representation of the creature, and describes it as their faithful servant capable of interceding with them on behalf of humans. The ritual also states that Sarpanit makes the uridimmu well disposed towards the patient treated with apotropaic magic.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "504",
+        "title": "Urmahlullu",
+        "content": "Urmahlullu was an apotrapaic creature with the lower body of a lion and upper body of a man, attested mostly in Assyria. Depictions are late (13th century BCE or later) and uncommon, and it is doubtful if any role was assigned to it in mythology. Apotropaic rituals nonetheless occasionally refer to it.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "505",
+        "title": "U\u0161umgallu",
+        "content": "U\u0161umgallu (\"prime venomous snake\") was an apotropaic snake monster similar to ba\u0161mu. In the god list An = Anum, it is the sukkal of Ninkilim, while in some later texts it is stated to be Nabu's dragon instead of mu\u0161\u1e2bu\u0161\u0161u.",
+        "category": "Mesopotamian mythology"
+    },
+    {
+        "id": "506",
+        "title": "El Basilisco",
+        "content": "This creature sucks the saliva out of its victim, killing the prey.",
+        "category": "Chilote mythology"
+    },
+    {
+        "id": "507",
+        "title": "El Caballo Marino Chilote",
+        "content": "He carries wizards and dead sailors to El Caleuche.",
+        "category": "Chilote mythology"
+    },
+    {
+        "id": "508",
+        "title": "El Caleuche",
+        "content": "\"A phantom ship\" that sometimes sails near the shore of Chilo\u00e9. It carries wizards and dead shipwrecked sailors. It is controlled by Millalobo's orders.",
+        "category": "Chilote mythology"
+    },
+    {
+        "id": "509",
+        "title": "Cuchivilu (from the Castilian dialectal cuchi: pig and from the mapudungun filu: snake)",
+        "content": "A half fish and haft pig from Chiloe mythology who attributed the damage that occurs in the fishing pens.",
+        "category": "Chilote mythology"
+    },
+    {
+        "id": "510",
+        "title": "The Camahueto",
+        "content": "A special calf with a silver horn. It is said that wizards can use it to cure \"sexual dysfunctions\".",
+        "category": "Chilote mythology"
+    },
+    {
+        "id": "511",
+        "title": "Cherruves",
+        "content": "With the body of a snake and the head of a human, he controls the \"appearance of comets\" and is responsible for bringing misfortune to whoever he visits.",
+        "category": "Chilote mythology"
+    },
+    {
+        "id": "512",
+        "title": "La Furia",
+        "content": "She arouses sexual desires in men. When she is \"satisfied\", she drains the victim of his energy, which kills him. She is married to El Trauco.",
+        "category": "Chilote mythology"
+    },
+    {
+        "id": "513",
+        "title": "Huallipenyi",
+        "content": "With the body of a goat and the head of a cow, it is symbolized with fog, and causes babies to have physical mutations when born.",
+        "category": "Chilote mythology"
+    },
+    {
+        "id": "514",
+        "title": "La Huenchula",
+        "content": "She is the wife of Millalobo.",
+        "category": "Chilote mythology"
+    },
+    {
+        "id": "515",
+        "title": "Meuler",
+        "content": "A lizard who causes storms and hides underground when the storm is active.",
+        "category": "Chilote mythology"
+    },
+    {
+        "id": "516",
+        "title": "Millalobo",
+        "content": "He has the body of a seal, and a head of a combination of a human and a fish. He is covered in gold, thus the name, meaning \"golden wolf\". He controls the population and actions of most sea creatures. His three children are La Pincoya, La Sirena, and El Pincoy.",
+        "category": "Chilote mythology"
+    },
+    {
+        "id": "517",
+        "title": "El Pincoy",
+        "content": "With the body of a seal and head of a man, he helps carry out his father's commands.",
+        "category": "Chilote mythology"
+    },
+    {
+        "id": "518",
+        "title": "La Pincoya",
+        "content": "She influences the outcome of the day's fishing; fish won't appear if she faces the shore, and fish will come if she faces the sea.",
+        "category": "Chilote mythology"
+    },
+    {
+        "id": "519",
+        "title": "La Sirena chilota",
+        "content": "With the tail of a fish and the upper torso of a beautiful blonde teenage girl, she is responsible for the herding of fish and the guiding of drowned souls to Caleuche. The daughter of Millalobo, and thus the sister of Pincoy and Pincoya.",
+        "category": "Chilote mythology"
+    },
+    {
+        "id": "520",
+        "title": "El Trauco",
+        "content": "He \"is aggressive to men\" and arouses sexual desires in women. He is married to La Furia.",
+        "category": "Chilote mythology"
+    },
+    {
+        "id": "521",
+        "title": "La Vaca Marina",
+        "content": "La Vaca Marina: She lives in the sea, and is sexually attracted to bulls. When she sees one near the coast, she leaves the sea and seduces it, and returns to the sea with it.",
+        "category": "Chilote mythology"
+    },
+    {
+        "id": "522",
+        "title": "La Viuda",
+        "content": "She also arouses sexual desires in men. Unlike La Furia, she only kills the victim if he refuses to sleep with her.",
+        "category": "Chilote mythology"
+    }
+]

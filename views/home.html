@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MythTags</title>
+    <link rel="stylesheet" href="/public/styles.css">
+  <h1>Welcome to MythTags!</h1>
+</head>
+<body>
+<h2>Search your myth:</h2>
+<div class="search-container">
+    <form id="searchForm">
+        <input type="text" id="searchInput" placeholder="Search...">
+        <button id="submitSearch" type="submit">Search</button>
+    </form>
+</div>
+
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Content</th>
+            <th>Category</th>
+            <th>Image</th>
+        </tr>
+    </thead>
+    <tbody id="results">
+    </tbody>
+</table>
+
+
+<script>
+document.getElementById('searchForm').addEventListener('submit', async function(event) {
+    event.preventDefault();  // Prevent the form from refreshing the page
+
+    const query = document.getElementById('searchInput').value;
+
+    if (query.trim() !== "") {
+        const response = await fetch(`/search?q=${query}`);
+        const results = await response.json();
+
+        const resultsContainer = document.getElementById('results');
+        resultsContainer.innerHTML = '';
+
+        results.forEach(doc => {
+            const row = document.createElement('tr');
+
+            const titleCell = document.createElement('td');
+            titleCell.textContent = doc.title;
+            row.appendChild(titleCell);
+
+            const contentCell = document.createElement('td');
+            contentCell.textContent = doc.content;
+            row.appendChild(contentCell);
+
+            const categoryCell = document.createElement('td');
+            categoryCell.textContent = doc.category;
+            row.appendChild(categoryCell);
+
+            const imgCell = document.createElement('td');
+            const img = document.createElement('img');
+            img.src = `./images/${doc.id}.jpg`;
+            img.alt = "No image available";
+            img.width = 85;
+            img.height = 120;
+            imgCell.appendChild(img);
+            row.appendChild(imgCell);
+
+            resultsContainer.appendChild(row);
+        });
+    } else {
+        document.getElementById('results').innerHTML = '';
+    }
+    
+});
+</script>
+
+</body>
+</html>
+
+</body>
+</html>

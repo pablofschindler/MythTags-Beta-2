@@ -1,0 +1,86 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+h1, h2 {
+    text-align: center;
+    color: blue;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#searchInput {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 250px;
+}
+
+#submitSearch {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    margin-left: 10px;
+    background-color: #007BFF;
+    color: #fff;
+    cursor: pointer;
+}
+
+#submitSearch:hover {
+    background-color: #0056b3;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 8px 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+body {
+    background-image: url('/public/Ouroboros.svg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+table {
+    background-color: rgba(255, 255, 255, 0.8); /* White background with slight transparency */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* A subtle shadow for depth */
+}
+h1 {
+    background-color: darkolivegreen;  /* Dark grey background */
+    color: #f4f4f4;  /* Light text color */
+    padding: 10px 0;  /* Vertical padding for spacing */
+    border: 2px solid #555;  /* Border around the header */
+    border-radius: 5px;  /* Rounded corners */
+    margin: 20px 0;  /* Margin for spacing */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);  /* Subtle shadow for depth */
+}
+h2 {
+    display: inline-block;  /* Make h2 only as wide as its content */
+    background-color: #555;  /* Grey background */
+    color: darkgoldenrod;  /* Light text color */
+    padding: 5px 10px;  /* Padding around the text */
+    border-radius: 5px;  /* Rounded corners */
+    margin: 10px 0;  /* Margin for spacing */
+}
