@@ -54,21 +54,15 @@
         "category": "Celtic mythology"
     },
     {
-        "id": "10",
-        "title": "Brigit",
-        "content": "Irish goddess of fire, poetry, arts, and crafts",
-        "category": "Celtic mythology"
-    },
-    {
         "id": "11",
         "title": "Grannus",
-        "content": "god of fire, health, water springs, and the sun",
+        "content": "a god associated with spas, the sun, fires and healing thermal and mineral water springs.",
         "category": "Celtic mythology"
     },
     {
         "id": "12",
         "title": "Nantosuelta",
-        "content": "goddess of fire, nature, fertility, rivers and the earth",
+        "content": "goddess of fire, nature, healing fertility, rivers and the earth",
         "category": "Celtic mythology"
     },
     {
@@ -87,12 +81,6 @@
         "id": "15",
         "title": "Helios",
         "content": "god and personification of the Sun",
-        "category": "Greek mythology"
-    },
-    {
-        "id": "16",
-        "title": "Hephaestus",
-        "content": "god of blacksmiths, crafting, fire, and volcanoes, Roman form Vulcan",
         "category": "Greek mythology"
     },
     {
@@ -163,14 +151,8 @@
     },
     {
         "id": "29",
-        "title": "Safa",
-        "content": "god of the hearth chain",
-        "category": "Ossetian mythology"
-    },
-    {
-        "id": "30",
-        "title": "Mariel",
-        "content": "Fire goddess",
+        "title": "Safa  (Сафа)",
+        "content": "god of the hearth chain, fire",
         "category": "Ossetian mythology"
     },
     {
@@ -242,7 +224,7 @@
     {
         "id": "42",
         "title": "Peklenc",
-        "content": "god of fire who rules the underworld and its wealth and who judges and punishes the wicked through earthquakes",
+        "content": "god of fire who rules the underworld and its wealth and who judges and punishes the wicked through earthquakes. Pekelnyboh, Pekelnypan, Pekelnik, LoktonPeklabog or Pekelnybog is another name of the god of the underworld, and he has been compared to the Indic Shiva. Etymologically, the word peklo means “pitch”, and after Christianisation, its meaning became that of “hell”, often personified as the Devil, and pekelnik any being of hell. Probably a post-christianity version of Veles.",
         "category": "Slavic mythology"
     },
     {
@@ -408,12 +390,6 @@
         "category": "Egyptian mythology"
     },
     {
-        "id": "70",
-        "title": "Khnum",
-        "content": "god of the source of the Nile.",
-        "category": "Egyptian mythology"
-    },
-    {
         "id": "72",
         "title": "Nu",
         "content": "uncreated god, personification of the primordial waters.",
@@ -427,7 +403,7 @@
     },
     {
         "id": "74",
-        "title": "Satet",
+        "title": "Satis aka Satet, Setis, Sati, Satit or Sathit",
         "content": "goddess of the Nile River's floods.",
         "category": "Egyptian mythology"
     },
@@ -482,13 +458,13 @@
     {
         "id": "90",
         "title": "Alpheus",
-        "content": "river god in Arcadia.",
+        "content": "river god in Arcadia. Water.",
         "category": "Greek mythology"
     },
     {
         "id": "91",
         "title": "Amphitrite",
-        "content": "sea goddess and consort of Poseidon and thus queen of the sea.",
+        "content": "sea goddess and consort of Poseidon and thus queen of the sea. Water.",
         "category": "Greek mythology"
     },
     {
@@ -518,7 +494,7 @@
     {
         "id": "96",
         "title": "Brizo",
-        "content": "goddess of sailors.",
+        "content": "goddess of sailors. Water.",
         "category": "Greek mythology"
     },
     {
@@ -529,19 +505,19 @@
     },
     {
         "id": "98",
-        "title": "Ceto",
-        "content": "goddess of the dangers of the ocean and of sea monsters.",
+        "title": "Ceto aka Keto",
+        "content": "goddess of the dangers of the ocean and of sea monsters. Water.",
         "category": "Greek mythology"
     },
     {
         "id": "99",
-        "title": "Charybdis",
+        "title": "Charybdis aka Khárybdis",
         "content": "a sea monster and spirit of whirlpools and the tide.",
         "category": "Greek mythology"
     },
     {
         "id": "100",
-        "title": "Cymopoleia",
+        "title": "Kymopoleia",
         "content": "a daughter of Poseidon and goddess of giant storm waves.",
         "category": "Greek mythology"
     },
@@ -602,7 +578,7 @@
     {
         "id": "110",
         "title": "The Graeae",
-        "content": "three ancient sea spirits who personified the white foam of the sea; they shared one eye and one tooth between them.",
+        "content": "three ancient sea spirits who personified the white foam of the sea; they shared one eye and one tooth between them. Water. Three Goddess.",
         "category": "Greek mythology"
     },
     {
@@ -615,12 +591,6 @@
         "id": "112",
         "title": "The Ichthyocentaurs",
         "content": "a pair of centaurine sea-gods with the upper bodies of men, the lower fore-parts of horses, ending in the serpentine tails of fish.",
-        "category": "Greek mythology"
-    },
-    {
-        "id": "113",
-        "title": "Kymopoleia",
-        "content": "daughter of Poseidon and goddess of violent sea storms.",
         "category": "Greek mythology"
     },
     {
@@ -853,8 +823,8 @@
     },
     {
         "id": "153",
-        "title": "Kostroma",
-        "content": "goddess of fertility. After discovering that her husband, Kupala, is her brother, she jumped into the forest lake (in other legends into the river Ra). After her death, she became a mavka (or rusalka).",
+        "title": "Kostroma/Кострома́",
+        "content": "goddess of fertility. After discovering that her husband, Kupala, is her brother, she jumped into the forest lake (in other legends into the river Ra). After her death, she became a mavka (or rusalka). Her name is derived from костёр (kostyor), the Russian word for 'bonfire'. Earth Goddess.",
         "category": "Slavic mythology"
     },
     {
@@ -889,7 +859,7 @@
     },
     {
         "id": "159",
-        "title": "Rusalki",
+        "title": "Rusalki aka Rusalka",
         "content": "female ghosts, water nymphs, succubi or mermaid-like demons that dwell in waterways.",
         "category": "Slavic mythology"
     },
@@ -909,18 +879,6 @@
         "id": "162",
         "title": "Belisama",
         "content": "goddess of lakes and rivers, fire, crafts, and light.",
-        "category": "Celtic mythology"
-    },
-    {
-        "id": "163",
-        "title": "Grannus",
-        "content": "a god associated with spas, the sun, fires and healing thermal and mineral springs.",
-        "category": "Celtic mythology"
-    },
-    {
-        "id": "164",
-        "title": "Nantosuelta",
-        "content": "river goddess of fire, the earth, healing, and fertility.",
         "category": "Celtic mythology"
     },
     {
@@ -979,8 +937,8 @@
     },
     {
         "id": "174",
-        "title": "Brigid",
-        "content": "a goddess sometimes associated with water and where three streams join together (relating to her being a Triple Goddess)",
+        "title": "Brigit or Brigid",
+        "content": "a goddess sometimes associated with water and where three streams join together (relating to her being a Triple Goddess). Also associated with fire, poetry, arts, and crafts.",
         "category": "Irish mythology"
     },
     {
@@ -1279,7 +1237,7 @@
     },
     {
         "id": "225",
-        "title": "Kukulcan",
+        "title": "Kukulcán",
         "content": "god of the seas, oceans, and storms",
         "category": "Mayan mythology"
     },
@@ -1296,40 +1254,34 @@
         "category": "Mayan mythology"
     },
     {
-        "id": "228",
-        "title": "Tupi-Guarani (Brazilian Myth)",
-        "content": "",
-        "category": "South America mythology"
-    },
-    {
         "id": "229",
         "title": "Amanasy",
         "content": "Goddess of the rain and frogs",
-        "category": "South America mythology"
+        "category": "Tupi-Guarani mythology"
     },
     {
         "id": "230",
         "title": "Iara",
         "content": "Guardian of the water and of the Amazon River",
-        "category": "South America mythology"
+        "category": "Tupi-Guarani mythology"
     },
     {
         "id": "231",
         "title": "Ipupiara",
         "content": "Guardian of the sea",
-        "category": "South America mythology"
+        "category": "Tupi-Guarani mythology"
     },
     {
         "id": "232",
         "title": "Lurua\u00e7u",
         "content": "Goddess of the storms",
-        "category": "South America mythology"
+        "category": "Tupi-Guarani mythology"
     },
     {
         "id": "233",
         "title": "Tup\u00e3",
         "content": "God of the thunder, weather, storms and clouds",
-        "category": "South America mythology"
+        "category": "Tupi-Guarani mythology"
     },
     {
         "id": "234",
@@ -1353,13 +1305,7 @@
         "id": "237",
         "title": "Mohan",
         "content": "a mischievous entity associated with rivers, lakes and water in general.",
-        "category": "Incan mythology"
-    },
-    {
-        "id": "238",
-        "title": "Western -Congo",
-        "content": "",
-        "category": "None mythology"
+        "category": "Muisca mythology"
     },
     {
         "id": "239",
@@ -1790,13 +1736,13 @@
     {
         "id": "316",
         "title": "Godavari",
-        "content": "the longest river of South India. The river is also considered as Dakshina Ganga aka South(ern) Ganga.",
+        "content": "the longest river of South India. The river is also considered as Dakshina Ganga aka South(ern) Ganga. Water.",
         "category": "Hindu mythology"
     },
     {
         "id": "317",
         "title": "Kaveri",
-        "content": "a river of South India, worshipped by people as a goddess who was previously incarnated as Lopamudra, the wife of Sage Agastya.",
+        "content": "a river of South India, worshipped by people as a goddess who was previously incarnated as Lopamudra, the wife of Sage Agastya. Water.",
         "category": "Hindu mythology"
     },
     {
@@ -1910,7 +1856,7 @@
     {
         "id": "337",
         "title": "Maka-aka\u014b",
-        "content": "the earth goddess",
+        "content": "Earth, Earth Spirit, Earth Goddess. Feminine. Domain is all lands except mountains and high hills. Patroness of sustenance, shelter. Protection, contentment, comfort, happiness. Petty, complaining, jealous, material. Color: Green.",
         "category": "Lakota mythology"
     },
     {
@@ -1964,7 +1910,7 @@
     {
         "id": "346",
         "title": "Hephaestus",
-        "content": "Master blacksmith and craftsman of the gods; god of the forge, craftsmanship, invention, fire and volcanoes. The son of Hera, either by Zeus or through parthenogenesis. Married to Aphrodite. His Latin name, Vulcan, gave us the word volcano. His symbols include fire, anvil, axe, donkey, hammer, tongs, and quail. Olympian",
+        "content": "Master blacksmith and craftsman of the gods; god of the forge, craftsmanship, invention, fire and volcanoes. The son of Hera, either by Zeus or through parthenogenesis. Married to Aphrodite. His Latin name, Vulcan, gave us the word volcano. His symbols include fire, anvil, axe, donkey, hammer, tongs, and quail. Olympian god of blacksmiths, crafting, fire, and volcanoes, Roman form Vulcan",
         "category": "Greek mythology"
     },
     {
@@ -2054,7 +2000,7 @@
     {
         "id": "361",
         "title": "Khnum (Khnemu)",
-        "content": "A ram god, the patron deity of Elephantine, who was said to control the Nile flood and give life to gods and humans",
+        "content": "A ram god, the patron deity of Elephantine, who was said to control the Nile flood and give life to gods and humans. Water.",
         "category": "Egyptian mythology"
     },
     {
@@ -2911,7 +2857,7 @@
     },
     {
         "id": "511",
-        "title": "Cherruves",
+        "title": "Cherüwfe",
         "content": "With the body of a snake and the head of a human, he controls the \"appearance of comets\" and is responsible for bringing misfortune to whoever he visits.",
         "category": "Chilote mythology"
     },
@@ -2972,7 +2918,7 @@
     {
         "id": "521",
         "title": "La Vaca Marina",
-        "content": "La Vaca Marina: She lives in the sea, and is sexually attracted to bulls. When she sees one near the coast, she leaves the sea and seduces it, and returns to the sea with it.",
+        "content": "She lives in the sea and is sexually attracted to bulls. When she sees one near the coast, she leaves the sea and seduces it, and returns to the sea with it.",
         "category": "Chilote mythology"
     },
     {
@@ -2980,5 +2926,41 @@
         "title": "La Viuda",
         "content": "She also arouses sexual desires in men. Unlike La Furia, she only kills the victim if he refuses to sleep with her.",
         "category": "Chilote mythology"
+    },
+    {
+        "id": "337",
+        "title": "U\u014bk",
+        "content": "Passion. Domain is the waters. Beauty, passion, tension, vicious, excessive.",
+        "category": "Lakota mythology"
+    },
+    {
+        "id": "523",
+        "title": "YHWH / Yahweh",
+        "content": "Yahweh was an ancient Levantine deity, and national god of the Israelite kingdoms of Israel and Judah. Though no consensus exists regarding the deity's origins, scholars generally contend that Yahweh emerged as a \"divine warrior\" associated first with Seir, Edom, Paran and Teman, and later with Canaan. The origins of his worship reach at least to the early Iron Age, and likely to the Late Bronze Age, if not somewhat earlier. In the oldest biblical literature he possesses attributes typically ascribed to weather and war deities, fructifying the land and leading the heavenly army against Israel's enemies. The early Israelites were polytheistic and worshipped Yahweh alongside a variety of Canaanite gods and goddesses, including El, Asherah and Baal. In later centuries, El and Yahweh became conflated and El-linked epithets such as El Shaddai came to be applied to Yahweh alone, and other gods and goddesses such as Baal and Asherah were absorbed into Yahwist religion.",
+        "category": "Abrahamic religions"
+    },
+    {
+        "id": "524",
+        "title": "Jesus",
+        "content": "Jesus (c. 6 to 4 BC – AD 30 or 33), also referred to as Jesus Christ, Jesus of Nazareth, and several other names and titles, was a first-century Jewish preacher and religious leader. He is the central figure of Christianity, the world's largest religion. Most Christians believe Jesus to be the incarnation of God the Son and the awaited messiah, the Christ that is prophesied in the Hebrew Bible. In the gospel accounts, Jesus devotes a large portion of his ministry to performing miracles, especially healings. The miracles can be classified into two main categories: healing miracles and nature miracles. The healing miracles include cures for physical ailments, exorcisms, and resurrections of the dead. The nature miracles show Jesus' power over nature, and include turning water into wine, walking on water, and calming a storm, among others. ",
+        "category": "Abrahamic religions"
+    },
+    {
+        "id": "525",
+        "title": "Muhammad",
+        "content": "The rise of Islam is intrinsically linked with the Prophet Muhammad, believed by Muslims to be the last in a long line of prophets that includes Moses and Jesus.",
+        "category": "Abrahamic religions"
+    },
+    {
+        "id": "526",
+        "title": "Moses",
+        "content": "Moses is best known from the story in the biblical Book of Exodus and Quran as the lawgiver who met God face-to-face on Mount Sinai to receive the Ten Commandments after leading his people, the Hebrews, out of bondage in Egypt and to the 'promised land' of Canaan. Split the nile in half.",
+        "category": "Abrahamic religions"
+    },
+    {
+        "id": "527",
+        "title": "Solomon",
+        "content": "king of Israel who built the first Temple in Jerusalem. King Solomon's reign, despite its troublesome ending, was filled with significant accomplishments, according to the Hebrew Bible. Solomon made lasting impacts on Israel and Judah's construction, political structure, and culture. While he was not always portrayed as a godly figure, Solomon was praised by the Hebrew Bible for his wisdom as a builder, king, general, and administrator. Had a lot of wives",
+        "category": "Abrahamic religions"
     }
 ]
