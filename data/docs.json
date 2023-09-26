@@ -1011,67 +1011,67 @@
         "id": "186",
         "title": "\u00c6gir",
         "content": "personification of the sea.",
-        "category": "Ancient mythology"
+        "category": "Norse mythology"
     },
     {
         "id": "187",
         "title": "Freyr",
         "content": "god of rain, sunlight, fertility, life, and summer.",
-        "category": "Ancient mythology"
+        "category": "Norse mythology"
     },
     {
         "id": "188",
         "title": "Nehalennia",
         "content": "goddess of the North Sea.",
-        "category": "Ancient mythology"
+        "category": "Germanic mythology"
     },
     {
         "id": "189",
         "title": "Nerthus",
         "content": "mostly an earth goddess, but is also associated with lakes, springs, and holy waters.",
-        "category": "Ancient mythology"
+        "category": "Germanic mythology"
     },
     {
         "id": "190",
         "title": "Nine Daughters of \u00c6gir",
         "content": "who personify the characteristics of waves.",
-        "category": "Ancient mythology"
+        "category": "Norse mythology"
     },
     {
         "id": "191",
         "title": "Nix",
         "content": "water spirits who usually appear in human form.",
-        "category": "Ancient mythology"
+        "category": "Germanic mythology"
     },
     {
         "id": "192",
         "title": "Nj\u00f6r\u00f0r",
         "content": "god of the sea, particularly of seafaring.",
-        "category": "Ancient mythology"
+        "category": "Norse mythology"
     },
     {
         "id": "193",
         "title": "R\u00e1n",
         "content": "sea goddess of death who collects the drowned in a net, wife of \u00c6gir.",
-        "category": "Ancient mythology"
+        "category": "Norse mythology"
     },
     {
         "id": "194",
         "title": "Rhenus Pater",
         "content": "god of the Rhine river",
-        "category": "Ancient mythology"
+        "category": "Germanic mythology"
     },
     {
         "id": "195",
         "title": "Rura",
         "content": "goddess of the Rur river",
-        "category": "Ancient mythology"
+        "category": "Germanic mythology"
     },
     {
         "id": "196",
         "title": "S\u00e1ga",
         "content": "wisdom goddess who lives near water and pours Odin a drink when he visits.",
-        "category": "Ancient mythology"
+        "category": "Norse mythology"
     },
     {
         "id": "197",
@@ -1309,7 +1309,7 @@
     },
     {
         "id": "239",
-        "title": "Ezili",
+        "title": "Erzulie or Ezili",
         "content": "goddess of sweet water, beauty, and love.",
         "category": "Benin mythology"
     },
@@ -1461,12 +1461,6 @@
         "id": "264",
         "title": "Mboze.",
         "content": "",
-        "category": "Kongo mythology"
-    },
-    {
-        "id": "265",
-        "title": "Mpulu Bunzi",
-        "content": "god of rain and waters.",
         "category": "Kongo mythology"
     },
     {
@@ -1650,12 +1644,6 @@
         "category": "Korean mythology"
     },
     {
-        "id": "302",
-        "title": "In Hindu culture",
-        "content": "each water body is worshipped as a form of God. Hence, the rivers are worshipped as goddesses and the ocean is worshipped as a god.",
-        "category": "Hindu mythology"
-    },
-    {
         "id": "303",
         "title": "Varuna",
         "content": "the Lord of All the Water Bodies",
@@ -1683,12 +1671,6 @@
         "id": "307",
         "title": "Makara",
         "content": "mystical creature of waters.",
-        "category": "Hindu mythology"
-    },
-    {
-        "id": "308",
-        "title": "Varuna",
-        "content": "the God of the ocean and rains and water.",
         "category": "Hindu mythology"
     },
     {
@@ -1796,14 +1778,8 @@
     {
         "id": "326",
         "title": "Irai Leima",
-        "content": "the Goddess of water and aquatic life.",
+        "content": "the Goddess of water and aquatic life. Sent down to Earth to teach humanity to build a civilisation",
         "category": "Manipuri mythology"
-    },
-    {
-        "id": "327",
-        "title": "Irai Leima",
-        "content": "goddess of water, sent down to Earth to teach humanity to build a civilisation",
-        "category": "Meitei mythology"
     },
     {
         "id": "328",
@@ -1846,12 +1822,6 @@
         "title": "Pachamama",
         "content": "'Earth Mother' type goddess, and a fertility goddess who presides over planting and harvesting, embodies the mountains, and causes earthquakes. She is also an ever-present and independent deity who has her own creative power to sustain life on this earth. Her shrines are hallowed rocks, or the boles of legendary trees, and her artists envision her as an adult female bearing harvests of potatoes or coca leaves. The four cosmological Quechua principles (Water, Earth, Sun, and Moon) claim Pachamama as their prime origin. Priests sacrifice offerings of llamas, cuy (guinea pigs), children (The Capacocha Ritual) and elaborate, miniature, burned garments to her.",
         "category": "Inca mythology"
-    },
-    {
-        "id": "336",
-        "title": "Alignak",
-        "content": "in Inuit mythology, a lunar deity, but also god of earthquakes, as well as weather, water, tides, and eclipses",
-        "category": "Inuit mythology"
     },
     {
         "id": "337",

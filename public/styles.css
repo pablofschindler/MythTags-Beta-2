@@ -89,3 +89,53 @@ h3 {
     color: whitesmoke;
     background-color: #555;
 }
+.tooltip {
+    position: absolute;
+    text-align: center;
+    color: gold;
+    /*
+    border-bottom: 1px dotted black;
+    */
+    display: block;
+    display: flex;
+    align-items: center; /* vertically center */
+    justify-content: center; /* horizontally center */
+    min-width: 200vh; /* full viewport height */
+    margin: 0; /* remove default margin */
+  }
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    /*
+    margin-left: -60px;
+    */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  .tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
+
