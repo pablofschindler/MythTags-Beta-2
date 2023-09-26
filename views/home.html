@@ -20,12 +20,12 @@
 
 <div class="tooltip">Examples
     <span class="tooltiptext">'fire', 'water', 'Olympian', 'Mesopotamian', etc...</span>
-  </div>
+</div>
 <br>
 
-<div>  
+<div>
 <table>
-    <thead>
+    <thead id="tableHeader" style="display:none;"> <!-- The table header is initially hidden -->
         <tr>
             <th>Title</th>
             <th>Content</th>
@@ -37,7 +37,6 @@
     </tbody>
 </table>
 
-
 <script>
 document.getElementById('searchForm').addEventListener('submit', async function(event) {
     event.preventDefault();  // Prevent the form from refreshing the page
@@ -47,6 +46,10 @@ document.getElementById('searchForm').addEventListener('submit', async function(
     if (query.trim() !== "") {
         const response = await fetch(`/search?q=${query}`);
         const results = await response.json();
+
+        if(results && results.length > 0) {
+            document.getElementById('tableHeader').style.display = "";  // Show table header if there are results
+        }
 
         const resultsContainer = document.getElementById('results');
         resultsContainer.innerHTML = '';
@@ -77,18 +80,9 @@ document.getElementById('searchForm').addEventListener('submit', async function(
 
             resultsContainer.appendChild(row);
         });
-    } else {
-        document.getElementById('results').innerHTML = '';
     }
-    
 });
 </script>
-
-</div>
-
-</body>
-
-</html>
 
 </body>
 </html>
