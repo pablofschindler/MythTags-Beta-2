@@ -374,7 +374,7 @@
     {
         "id": "67",
         "title": "Anuket",
-        "content": "goddess of the Nile and nourisher of the fields.",
+        "content": "goddess of the Nile and nourisher of the fields. A feathered headdress wearing goddess of Egypt's southern frontier regions, particularly the lower cataracts of the Nile",
         "category": "Egyptian mythology"
     },
     {
@@ -386,7 +386,7 @@
     {
         "id": "69",
         "title": "Hapi",
-        "content": "god of the annual flooding of the Nile.",
+        "content": "god of the annual flooding of the Nile. Water.",
         "category": "Egyptian mythology"
     },
     {
@@ -410,13 +410,13 @@
     {
         "id": "75",
         "title": "Sobek",
-        "content": "god of the Nile river, is depicted as a crocodile or a man with the head of a crocodile.",
+        "content": "god of the Nile river, is depicted as a crocodile or a man with the head of a crocodile. Water.",
         "category": "Egyptian mythology"
     },
     {
         "id": "77",
         "title": "Wadj-wer",
-        "content": "personification of the Mediterranean Sea or represented the lagoons and lakes in the northernmost Nile Delta.",
+        "content": "personification of the Mediterranean Sea or represented the lagoons and lakes in the northernmost Nile Delta. Water.",
         "category": "Egyptian mythology"
     },
     {
@@ -1950,12 +1950,6 @@
         "category": "Egyptian mythology"
     },
     {
-        "id": "358",
-        "title": "Hapi",
-        "content": "Personification of the Nile flood",
-        "category": "Egyptian mythology"
-    },
-    {
         "id": "359",
         "title": "Horus",
         "content": "A major god, usually shown as a falcon or as a human child, linked with the sky, the sun, kingship, protection, and healing. Often said to be the son of Osiris and Isis.",
@@ -2028,12 +2022,6 @@
         "category": "Egyptian mythology"
     },
     {
-        "id": "372",
-        "title": "Sobek",
-        "content": "Crocodile god, worshipped in the Faiyum and at Kom Ombo",
-        "category": "Egyptian mythology"
-    },
-    {
         "id": "373",
         "title": "Sopdu",
         "content": "A god of the sky and of Egypt's eastern border regions",
@@ -2046,21 +2034,9 @@
         "category": "Egyptian mythology"
     },
     {
-        "id": "375",
-        "title": "Wadj-wer",
-        "content": "Personification of the Mediterranean sea or lakes of the Nile Delta",
-        "category": "Egyptian mythology"
-    },
-    {
         "id": "376",
         "title": "Amunet",
         "content": "Female counterpart of Amun and a member of the Ogdoad",
-        "category": "Egyptian mythology"
-    },
-    {
-        "id": "377",
-        "title": "Anuket",
-        "content": "A feathered headdress wearing goddess of Egypt's southern frontier regions, particularly the lower cataracts of the Nile",
         "category": "Egyptian mythology"
     },
     {
@@ -2166,12 +2142,6 @@
         "category": "Egyptian mythology"
     },
     {
-        "id": "395",
-        "title": "Satet",
-        "content": "A goddess of Egypt's southern frontier regions",
-        "category": "Egyptian mythology"
-    },
-    {
         "id": "396",
         "title": "Sekhmet",
         "content": "A lioness goddess, both destructive and violent and capable of warding off disease, protector of the pharaohs who led them in war, the consort of Ptah and one of many forms of the Eye of Ra.",
@@ -2199,12 +2169,6 @@
         "id": "400",
         "title": "Anubis/Anput",
         "content": "The god/goddess of funerals, embalming and protector of the dead",
-        "category": "Egyptian mythology"
-    },
-    {
-        "id": "401",
-        "title": "Hapi",
-        "content": "Personification of the Nile flood",
         "category": "Egyptian mythology"
     },
     {
